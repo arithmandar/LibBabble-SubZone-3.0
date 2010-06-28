@@ -1,4 +1,4 @@
---[[
+﻿--[[
 $Id$
 Name: LibBabble-SubZone-3.0
 Revision: $Rev$
