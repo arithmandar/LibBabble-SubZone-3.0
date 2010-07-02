@@ -224,7 +224,7 @@ lib:SetBaseTranslations {
 	["Legash Encampment"] = "Legash Encampment";
 	["Ravencrest Monument"] = "Ravencrest Monument";
 	["Rethress Sanctum"] = "Rethress Sanctum";
-	["Ruins of Eldarath "] = "Ruins of Eldarath ";
+	["Ruins of Eldarath"] = "Ruins of Eldarath";
 	["Scalebeard's Cave"] = "Scalebeard's Cave";
 	["Shadowsong Shrine"] = "Shadowsong Shrine";
 	["Southfury River"] = "Southfury River";
@@ -931,7 +931,7 @@ lib:SetBaseTranslations {
 	["Woodpaw Den"] = "Woodpaw Den";
 	["Woodpaw Hills"] = "Woodpaw Hills";
 	["Bloodvenom Falls"] = "Bloodvenom Falls";
-	["Bloodvenom Post "] = "Bloodvenom Post ";
+	["Bloodvenom Post"] = "Bloodvenom Post";
 	["Bloodvenom River"] = "Bloodvenom River";
 	["Deadwood Village"] = "Deadwood Village";
 	["Emerald Sanctuary"] = "Emerald Sanctuary";
@@ -946,7 +946,7 @@ lib:SetBaseTranslations {
 	["Shadow Hold"] = "Shadow Hold";
 	["Shatter Scar Vale"] = "Shatter Scar Vale";
 	["Shrine of the Deceiver"] = "Shrine of the Deceiver";
-	["Talonbranch Glade "] = "Talonbranch Glade ";
+	["Talonbranch Glade"] = "Talonbranch Glade";
 	["Timbermaw Hold"] = "Timbermaw Hold";
 	["Amberpine Lodge"] = "Amberpine Lodge";
 	["Arriga Footbridge"] = "Arriga Footbridge";
@@ -2122,7 +2122,7 @@ lib:SetBaseTranslations {
 	["Ember Spear Tower"] = "Ember Spear Tower";
 	["Emberstrife's Den"] = "Emberstrife's Den";
 	["Engine of the Makers"] = "Engine of the Makers";
-	["Engineering Labs "] = "Engineering Labs ";
+	["Engineering Labs"] = "Engineering Labs";
 	["Excavation Center"] = "Excavation Center";
 	["Excavation Lift"] = "Excavation Lift";
 	["Falconwing Square"] = "Falconwing Square";
@@ -2274,7 +2274,7 @@ lib:SetBaseTranslations {
 	["Library Wing"] = "Library Wing";
 	["Light's Point Tower"] = "Light's Point Tower";
 	["Lion's Pride Inn"] = "Lion's Pride Inn";
-	["Livery Stables "] = "Livery Stables ";
+	["Livery Stables"] = "Livery Stables";
 	["Loading Room"] = "Loading Room";
 	["Loken's Bargain"] = "Loken's Bargain";
 	["Lost Point"] = "Lost Point";
@@ -2408,7 +2408,7 @@ lib:SetBaseTranslations {
 	["Shadowshard Cavern"] = "Shadowshard Cavern";
 	["Shadowthread Cave"] = "Shadowthread Cave";
 	["Shalzaru's Lair"] = "Shalzaru's Lair";
-	["Shaper's Terrace "] = "Shaper's Terrace ";
+	["Shaper's Terrace"] = "Shaper's Terrace";
 	["Shattrath City"] = "Shattrath City";
 	["Shrine of Eck"] = "Shrine of Eck";
 	["Shrine of Lost Souls"] = "Shrine of Lost Souls";
@@ -2485,7 +2485,7 @@ lib:SetBaseTranslations {
 	["Thandol Span"] = "Thandol Span";
 	["The Apothecarium"] = "The Apothecarium";
 	["The Arachnid Quarter"] = "The Arachnid Quarter";
-	["The Arcanium "] = "The Arcanium ";
+	["The Arcanium"] = "The Arcanium";
 	["The Assembly Chamber"] = "The Assembly Chamber";
 	["The Athenaeum"] = "The Athenaeum";
 	["The Banquet Hall"] = "The Banquet Hall";
@@ -2506,7 +2506,7 @@ lib:SetBaseTranslations {
 	["The Commerce Ward"] = "The Commerce Ward";
 	["The Conservatory"] = "The Conservatory";
 	["The Construct Quarter"] = "The Construct Quarter";
-	["The Coven "] = "The Coven ";
+	["The Coven"] = "The Coven";
 	["The Crimson Cathedral"] = "The Crimson Cathedral";
 	["The Crimson Throne"] = "The Crimson Throne";
 	["The Crimson Veil"] = "The Crimson Veil";
@@ -2518,7 +2518,7 @@ lib:SetBaseTranslations {
 	["The Deathforge"] = "The Deathforge";
 	["The Den"] = "The Den";
 	["The Den of Flame"] = "The Den of Flame";
-	["The Domicile "] = "The Domicile ";
+	["The Domicile"] = "The Domicile";
 	["The Dor'Danil Barrow Den"] = "The Dor'Danil Barrow Den";
 	["The Dormitory"] = "The Dormitory";
 	["The Drag"] = "The Drag";
@@ -2610,14 +2610,13 @@ lib:SetBaseTranslations {
 	["The Scarlet Basilica"] = "The Scarlet Basilica";
 	["The Scarlet Bastion"] = "The Scarlet Bastion";
 	["The Screaming Hall"] = "The Screaming Hall";
-	["The Scullery "] = "The Scullery ";
+	["The Scullery"] = "The Scullery";
 	["The Sealed Hall"] = "The Sealed Hall";
 	["The Seer's Library"] = "The Seer's Library";
 	["The Sepulcher"] = "The Sepulcher";
 	["The Sewer"] = "The Sewer";
 	["The Shadow Vault"] = "The Shadow Vault";
 	["The Shady Nook"] = "The Shady Nook";
-	["The Shaper's Terrace "] = "The Shaper's Terrace ";
 	["The Shattered Halls"] = "The Shattered Halls";
 	["The Shepherd's Gate"] = "The Shepherd's Gate";
 	["The Shrine of Eldretharr"] = "The Shrine of Eldretharr";
@@ -2679,7 +2678,7 @@ lib:SetBaseTranslations {
 	["Tinker Town"] = "Tinker Town";
 	["Tinkers' Court"] = "Tinkers' Court";
 	["Tomb of the Ancients"] = "Tomb of the Ancients";
-	["Tome of the Unrepentant "] = "Tome of the Unrepentant ";
+	["Tome of the Unrepentant"] = "Tome of the Unrepentant";
 	["Tower of Althalaxx"] = "Tower of Althalaxx";
 	["Tower of Azora"] = "Tower of Azora";
 	["Tower of Ilgalar"] = "Tower of Ilgalar";
@@ -3011,7 +3010,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Legash Encampment"] = "Lager der Legashi";
 		["Ravencrest Monument"] = "Rabenkrones Monument";
 		["Rethress Sanctum"] = "Rethress Sanktum";
-		["Ruins of Eldarath "] = "Die Ruinen von Eldarath";
+		["Ruins of Eldarath"] = "Die Ruinen von Eldarath";
 		["Scalebeard's Cave"] = "Schuppenbarts Höhle";
 		["Shadowsong Shrine"] = "Schattensangschrein";
 		["Southfury River"] = "Der Südstrom";
@@ -3718,7 +3717,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Woodpaw Den"] = "Waldpfotenbau";
 		["Woodpaw Hills"] = "Waldpfotenhügel";
 		["Bloodvenom Falls"] = "Die Blutgiftfälle";
-		["Bloodvenom Post "] = "Blutgiftposten";
+		["Bloodvenom Post"] = "Blutgiftposten";
 		["Bloodvenom River"] = "Blutgiftbach";
 		["Deadwood Village"] = "Lager der Totenwaldfelle";
 		["Emerald Sanctuary"] = "Das Smaragdrefugium";
@@ -3733,7 +3732,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Shadow Hold"] = "Schattenfeste";
 		["Shatter Scar Vale"] = "Narbengrund";
 		["Shrine of the Deceiver"] = "Schrein des Betrügers";
-		["Talonbranch Glade "] = "Nachtlaublichtung";
+		["Talonbranch Glade"] = "Nachtlaublichtung";
 		["Timbermaw Hold"] = "Holzschlundfeste";
 		["Amberpine Lodge"] = "Ammertannhütte";
 		["Arriga Footbridge"] = "Arrigabrücke";
@@ -4909,7 +4908,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Ember Spear Tower"] = "Glutspeerturm";
 		["Emberstrife's Den"] = "Aschenschwinges Bau";
 		["Engine of the Makers"] = "Maschine der Schöpfer";
-		["Engineering Labs "] = "Ingenieurlabore";
+		["Engineering Labs"] = "Ingenieurlabore";
 		["Excavation Center"] = "Ausgrabungszentrum";
 		["Excavation Lift"] = "Aufzug an der Ausgrabungsstätte";
 		["Falconwing Square"] = "Falkenplatz";
@@ -5061,7 +5060,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Library Wing"] = "Bibliotheksflügel";
 		["Light's Point Tower"] = "Lichtgipfelturm";
 		["Lion's Pride Inn"] = "Gasthaus Zur Höhle des Löwen";
-		["Livery Stables "] = "Nobelställe";
+		["Livery Stables"] = "Nobelställe";
 		["Loading Room"] = "Laderaum";
 		["Loken's Bargain"] = "Lokens Handel";
 		["Lost Point"] = "Die verlassene Wacht";
@@ -5195,7 +5194,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Shadowshard Cavern"] = "Schattensplitterhöhle";
 		["Shadowthread Cave"] = "Schattenweberhöhle";
 		["Shalzaru's Lair"] = "Shalzarus Unterschlupf";
-		["Shaper's Terrace "] = "Terrasse des Formers";
+		["Shaper's Terrace"] = "Terrasse des Formers";
 		["Shattrath City"] = "Shattrath";
 		["Shrine of Eck"] = "Schrein von Eck";
 		["Shrine of Lost Souls"] = "Schrein der verlorenen Seelen";
@@ -5272,7 +5271,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Thandol Span"] = "Thandolübergang";
 		["The Apothecarium"] = "Das Apothekarium";
 		["The Arachnid Quarter"] = "Das Arachnidenviertel";
-		["The Arcanium "] = "Das Arkanium";
+		["The Arcanium"] = "Das Arkanium";
 		["The Assembly Chamber"] = "Die Versammlungskammer";
 		["The Athenaeum"] = "Das Athenaeum";
 		["The Banquet Hall"] = "Der Bankettsaal";
@@ -5293,7 +5292,7 @@ elseif GAME_LOCALE == "deDE" then
 		["The Commerce Ward"] = "Das Handelsareal";
 		["The Conservatory"] = "Das Konservatorium";
 		["The Construct Quarter"] = "Das Konstruktviertel";
-		["The Coven "] = "Der Koven";
+		["The Coven"] = "Der Koven";
 		["The Crimson Cathedral"] = "Die Scharlachrote Kathedrale";
 		["The Crimson Throne"] = "Der Purpurthron";
 		["The Crimson Veil"] = "Die Purpurschleier";
@@ -5305,7 +5304,7 @@ elseif GAME_LOCALE == "deDE" then
 		["The Deathforge"] = "Die Todesschmiede";
 		["The Den of Flame"] = "Der Flammenbau";
 		["The Den"] = "Der Höhlenbau";
-		["The Domicile "] = "Das Domizil";
+		["The Domicile"] = "Das Domizil";
 		["The Dor'Danil Barrow Den"] = "Grabhügel von Dor'Danil";
 		["The Dormitory"] = "Der Schlafsaal";
 		["The Drag"] = "Die Gasse";
@@ -5397,14 +5396,14 @@ elseif GAME_LOCALE == "deDE" then
 		["The Scarlet Basilica"] = "Die Scharlachrote Basilika";
 		["The Scarlet Bastion"] = "Galerie der Schätze";
 		["The Screaming Hall"] = "Die schreiende Halle";
-		["The Scullery "] = "Die Küche";
+		["The Scullery"] = "Die Küche";
 		["The Sealed Hall"] = "Die versiegelte Halle";
 		["The Seer's Library"] = "Bibliothek der Seher";
 		["The Sepulcher"] = "Das Grabmal";
 		["The Sewer"] = "Der Kanal";
 		["The Shadow Vault"] = "Das Schattengewölbe";
 		["The Shady Nook"] = "Der Schattenwinkel";
-		["The Shaper's Terrace "] = "Die Terrasse des Formers";
+		["The Shaper's Terrace"] = "Die Terrasse des Formers";
 		["The Shattered Halls"] = "Die zerschmetterten Hallen";
 		["The Shepherd's Gate"] = "Hirtentor";
 		["The Shrine of Eldretharr"] = "Der Schrein von Eldretharr";
@@ -5466,7 +5465,7 @@ elseif GAME_LOCALE == "deDE" then
 		["Tinker Town"] = "Tüftlerstadt";
 		["Tinkers' Court"] = "Tüftlerhof";
 		["Tomb of the Ancients"] = "Grab der Uralten";
-		["Tome of the Unrepentant "] = "Foliant der Reuelosen";
+		["Tome of the Unrepentant"] = "Foliant der Reuelosen";
 		["Tower of Althalaxx"] = "Turm von Althalaxx";
 		["Tower of Azora"] = "Turm von Azora";
 		["Tower of Ilgalar"] = "Der Turm von Ilgalar";
@@ -5794,7 +5793,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Legash Encampment"] = "Campement Legashi";
 		["Ravencrest Monument"] = "Colosse de Crête-du-corbeau";
 		["Rethress Sanctum"] = "Sanctuaire de Rethress";
-		["Ruins of Eldarath "] = "Ruines d'Eldarath";
+		["Ruins of Eldarath"] = "Ruines d'Eldarath";
 		["Scalebeard's Cave"] = "Caverne de Barbe-d'écailles";
 		["Shadowsong Shrine"] = "Sanctuaire de Chantelombre";
 		["Southfury River"] = "Fleuve Furie-du-Sud";
@@ -6501,7 +6500,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Woodpaw Den"] = "Tanière des Griffebois";
 		["Woodpaw Hills"] = "Collines des Griffebois";
 		["Bloodvenom Falls"] = "Chutes de la Vénéneuse";
-		["Bloodvenom Post "] = "Poste de la Vénéneuse";
+		["Bloodvenom Post"] = "Poste de la Vénéneuse";
 		["Bloodvenom River"] = "La Vénéneuse";
 		["Deadwood Village"] = "Village des Mort-bois";
 		["Emerald Sanctuary"] = "Sanctuaire d'émeraude";
@@ -6516,7 +6515,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Shadow Hold"] = "Fort des ombres";
 		["Shatter Scar Vale"] = "Val Grêlé";
 		["Shrine of the Deceiver"] = "Sanctuaire du Trompeur";
-		["Talonbranch Glade "] = "Clairière de Griffebranche";
+		["Talonbranch Glade"] = "Clairière de Griffebranche";
 		["Timbermaw Hold"] = "Repaire des Grumegueules";
 		["Amberpine Lodge"] = "Gîte Ambrepin";
 		["Arriga Footbridge"] = "Passerelle Barriga";
@@ -7692,7 +7691,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Ember Spear Tower"] = "Tour Lance-de-braise";
 		["Emberstrife's Den"] = "Tanière de Brandeguerre";
 		["Engine of the Makers"] = "Moteur des Faiseurs";
-		["Engineering Labs "] = "Labos d'ingénierie";
+		["Engineering Labs"] = "Labos d'ingénierie";
 		["Excavation Center"] = "Excavation centrale";
 		["Excavation Lift"] = "Ascenseur de l'excavation";
 		["Falconwing Square"] = "Place de l'épervier";
@@ -7844,7 +7843,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Library Wing"] = "Aile de la Bibliothèque";
 		["Light's Point Tower"] = "Tour de la halte de la Lumière";
 		["Lion's Pride Inn"] = "Auberge de la Fierté du Lion";
-		["Livery Stables "] = "Écuries";
+		["Livery Stables"] = "Écuries";
 		["Loading Room"] = "Salle de chargement";
 		["Loken's Bargain"] = "Marché de Loken";
 		["Lost Point"] = "Halte perdue";
@@ -7978,7 +7977,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Shadowshard Cavern"] = "Caverne des Ombréclats";
 		["Shadowthread Cave"] = "Grotte de Sombrefil";
 		["Shalzaru's Lair"] = "Antre de Shalzaru";
-		["Shaper's Terrace "] = "Terrasse du Façonneur";
+		["Shaper's Terrace"] = "Terrasse du Façonneur";
 		["Shattrath City"] = "Shattrath";
 		["Shrine of Eck"] = "Sanctuaire d'Eck";
 		["Shrine of Lost Souls"] = "Sanctuaire des âmes perdues";
@@ -8055,7 +8054,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Thandol Span"] = "Viaduc de Thandol";
 		["The Apothecarium"] = "L'Apothicarium";
 		["The Arachnid Quarter"] = "Le quartier des Arachnides";
-		["The Arcanium "] = "L'Arcanium";
+		["The Arcanium"] = "L'Arcanium";
 		["The Assembly Chamber"] = "Salle capitulaire";
 		["The Athenaeum"] = "L'Athenaeum";
 		["The Banquet Hall"] = "La salle de banquet";
@@ -8076,7 +8075,7 @@ elseif GAME_LOCALE == "frFR" then
 		["The Commerce Ward"] = "La Garde du commerce";
 		["The Conservatory"] = "Le jardin d'hiver";
 		["The Construct Quarter"] = "Le quartier des Assemblages";
-		["The Coven "] = "Le Convent";
+		["The Coven"] = "Le Convent";
 		["The Crimson Cathedral"] = "La Cathédrale cramoisie";
 		["The Crimson Throne"] = "Le Trône cramoisi";
 		["The Crimson Veil"] = "Le Voile cramoisi";
@@ -8088,7 +8087,7 @@ elseif GAME_LOCALE == "frFR" then
 		["The Deathforge"] = "La Forgemort";
 		["The Den of Flame"] = "L'Antre des flammes";
 		["The Den"] = "L'Antre";
-		["The Domicile "] = "Le Domicile";
+		["The Domicile"] = "Le Domicile";
 		["The Dor'Danil Barrow Den"] = "Le refuge des saisons de Dor'danil";
 		["The Dormitory"] = "Le dortoir";
 		["The Drag"] = "La Herse";
@@ -8180,14 +8179,14 @@ elseif GAME_LOCALE == "frFR" then
 		["The Scarlet Basilica"] = "La Basilique écarlate";
 		["The Scarlet Bastion"] = "Le Bastion écarlate";
 		["The Screaming Hall"] = "Le hall hurlant";
-		["The Scullery "] = "Les cuisines";
+		["The Scullery"] = "Les cuisines";
 		["The Sealed Hall"] = "Le Hall scellé";
 		["The Seer's Library"] = "Bibliothèque du Voyant";
 		["The Sepulcher"] = "Le Sépulcre";
 		["The Sewer"] = "Les égouts";
 		["The Shadow Vault"] = "Le Caveau des ombres";
 		["The Shady Nook"] = "Le creux Ombragé";
-		["The Shaper's Terrace "] = "La terrasse du Façonneur";
+		["The Shaper's Terrace"] = "La terrasse du Façonneur";
 		["The Shattered Halls"] = "Les salles Brisées";
 		["The Shepherd's Gate"] = "La porte du Berger";
 		["The Shrine of Eldretharr"] = "Le sanctuaire d'Eldretharr";
@@ -8249,7 +8248,7 @@ elseif GAME_LOCALE == "frFR" then
 		["Tinker Town"] = "Brikabrok";
 		["Tinkers' Court"] = "Cour du Bricoleur";
 		["Tomb of the Ancients"] = "Tombeau des Anciens";
-		["Tome of the Unrepentant "] = "Tome du Relaps";
+		["Tome of the Unrepentant"] = "Tome du Relaps";
 		["Tower of Althalaxx"] = "Tour d'Althalaxx";
 		["Tower of Azora"] = "Tour d'Azora";
 		["Tower of Ilgalar"] = "Tour d'Ilgalar";
@@ -8539,7 +8538,7 @@ elseif GAME_LOCALE == "esES" then
 		["Legash Encampment"] = "Campamento Legashi";
 		["Ravencrest Monument"] = "Monumento Cresta Cuervo";
 		["Rethress Sanctum"] = "Sagrario de Rethres";
-		["Ruins of Eldarath "] = "Ruinas de Eldarath";
+		["Ruins of Eldarath"] = "Ruinas de Eldarath";
 		["Scalebeard's Cave"] = "Cueva Barbaescamas";
 		["Shadowsong Shrine"] = "Santuario Cantosombrío";
 		["Southfury River"] = "Río Furia del Sur";
@@ -9246,7 +9245,7 @@ elseif GAME_LOCALE == "esES" then
 		["Woodpaw Den"] = "Guarida de los Zarpaleña";
 		["Woodpaw Hills"] = "Colinas Zarpaleña";
 		["Bloodvenom Falls"] = "Cascadas del Veneno";
-		["Bloodvenom Post "] = "Puesto del Veneno";
+		["Bloodvenom Post"] = "Puesto del Veneno";
 		["Bloodvenom River"] = "Río del Veneno";
 		["Deadwood Village"] = "Aldea Muertobosque";
 		["Emerald Sanctuary"] = "Santuario Esmeralda";
@@ -9261,7 +9260,7 @@ elseif GAME_LOCALE == "esES" then
 		["Shadow Hold"] = "Guarida Sombría";
 		["Shatter Scar Vale"] = "Cañada Gran Cicatriz";
 		["Shrine of the Deceiver"] = "Santuario del Impostor";
-		["Talonbranch Glade "] = "Claro Ramaespolón";
+		["Talonbranch Glade"] = "Claro Ramaespolón";
 		["Timbermaw Hold"] = "Bastión Fauces de Madera";
 		["Amberpine Lodge"] = "Refugio Pino Ámbar";
 		["Arriga Footbridge"] = "Pasarela de Arriga";
@@ -10437,7 +10436,7 @@ elseif GAME_LOCALE == "esES" then
 		["Ember Spear Tower"] = "Torre Lanza Ámbar";
 		["Emberstrife's Den"] = "Cubil de Brasaliza";
 		["Engine of the Makers"] = "Motor de los Creadores";
-		["Engineering Labs "] = "Laboratorios de Ingeniería";
+		["Engineering Labs"] = "Laboratorios de Ingeniería";
 		["Excavation Center"] = "Centro de Excavación";
 		["Excavation Lift"] = "Elevador de la Excavación";
 		["Falconwing Square"] = "Plaza Alalcón";
@@ -10589,7 +10588,7 @@ elseif GAME_LOCALE == "esES" then
 		["Library Wing"] = "Biblioteca";
 		["Light's Point Tower"] = "Torre de la Punta de la Luz";
 		["Lion's Pride Inn"] = "Posada Orgullo de León";
-		["Livery Stables "] = "Caballerizas";
+		["Livery Stables"] = "Caballerizas";
 		["Loading Room"] = "Zona de Carga";
 		["Loken's Bargain"] = "Acuerdo de Loken";
 		["Lost Point"] = "Punta Perdida";
@@ -10723,7 +10722,7 @@ elseif GAME_LOCALE == "esES" then
 		["Shadowshard Cavern"] = "Cueva Fragmento Oscuro";
 		["Shadowthread Cave"] = "Gruta Narácnida";
 		["Shalzaru's Lair"] = "Guarida de Shalzaru";
-		["Shaper's Terrace "] = "Bancal del Creador";
+		["Shaper's Terrace"] = "Bancal del Creador";
 		["Shattrath City"] = "Ciudad de Shattrath";
 		["Shrine of Eck"] = "Santuario de Eck";
 		["Shrine of Lost Souls"] = "Santuario de las Almas Perdidas";
@@ -10800,7 +10799,7 @@ elseif GAME_LOCALE == "esES" then
 		["Thandol Span"] = "Puente Thandol";
 		["The Apothecarium"] = "El Apothecarium";
 		["The Arachnid Quarter"] = "El Arrabal Arácnido";
-		["The Arcanium "] = "El Arcanium";
+		["The Arcanium"] = "El Arcanium";
 		["The Assembly Chamber"] = "La Cámara de la Asamblea";
 		["The Athenaeum"] = "El Athenaeum";
 		["The Banquet Hall"] = "La Sala de Banquetes";
@@ -10821,7 +10820,7 @@ elseif GAME_LOCALE == "esES" then
 		["The Commerce Ward"] = "La Sala del Comercio";
 		["The Conservatory"] = "Conservatorio";
 		["The Construct Quarter"] = "Barrio de los Ensamblajes";
-		["The Coven "] = "El Aquelarre";
+		["The Coven"] = "El Aquelarre";
 		["The Crimson Cathedral"] = "La Catedral Carmesí";
 		["The Crimson Throne"] = "El Trono Carmesí";
 		["The Crimson Veil"] = "El Velo Carmesí";
@@ -10833,7 +10832,7 @@ elseif GAME_LOCALE == "esES" then
 		["The Deathforge"] = "La Forja Muerta";
 		["The Den of Flame"] = "Cubil de la Llama";
 		["The Den"] = "El Cubil";
-		["The Domicile "] = "Domicilio";
+		["The Domicile"] = "Domicilio";
 		["The Dor'Danil Barrow Den"] = "El Túmulo de Dor'danil";
 		["The Dormitory"] = "Los Dormitorios";
 		["The Drag"] = "La Calle Mayor";
@@ -10925,14 +10924,14 @@ elseif GAME_LOCALE == "esES" then
 		["The Scarlet Basilica"] = "La Basílica Escarlata";
 		["The Scarlet Bastion"] = "La Basílica Escarlata";
 		["The Screaming Hall"] = "La Sala del Grito";
-		["The Scullery "] = "La Sala de Limpieza";
+		["The Scullery"] = "La Sala de Limpieza";
 		["The Sealed Hall"] = "Cámara Sellada";
 		["The Seer's Library"] = "La Biblioteca del Profeta";
 		["The Sepulcher"] = "El Sepulcro";
 		["The Sewer"] = "La Cloaca";
 		["The Shadow Vault"] = "La Cámara de las Sombras";
 		["The Shady Nook"] = "El Rincón Lóbrego";
-		["The Shaper's Terrace "] = "El Bancal del Creador";
+		["The Shaper's Terrace"] = "El Bancal del Creador";
 		["The Shattered Halls"] = "Las Salas Arrasadas";
 		["The Shepherd's Gate"] = "La Puerta del Pastor";
 		["The Shrine of Eldretharr"] = "Santuario de Eldretharr";
@@ -10994,7 +10993,7 @@ elseif GAME_LOCALE == "esES" then
 		["Tinker Town"] = "Ciudad Manitas";
 		["Tinkers' Court"] = "Cámara Manitas";
 		["Tomb of the Ancients"] = "Tumba de los Ancestros";
-		["Tome of the Unrepentant "] = "Libro de los Impenitentes";
+		["Tome of the Unrepentant"] = "Libro de los Impenitentes";
 		["Tower of Althalaxx"] = "Torre de Althalaxx";
 		["Tower of Azora"] = "Torre de Azora";
 		["Tower of Ilgalar"] = "Torre de Ilgalar";
@@ -11280,7 +11279,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Legash Encampment"] = "Campamento Legashi";
 		["Ravencrest Monument"] = "Monumento Cresta Cuervo";
 		["Rethress Sanctum"] = "Sagrario de Rethres";
-		["Ruins of Eldarath "] = "Ruinas de Eldarath";
+		["Ruins of Eldarath"] = "Ruinas de Eldarath";
 		["Scalebeard's Cave"] = "Cueva Barbaescamas";
 		["Shadowsong Shrine"] = "Santuario Cantosombrío";
 		["Southfury River"] = "Río Furia del Sur";
@@ -11987,7 +11986,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Woodpaw Den"] = "Guarida de los Zarpaleña";
 		["Woodpaw Hills"] = "Colinas Zarpaleña";
 		["Bloodvenom Falls"] = "Cascadas del Veneno";
-		["Bloodvenom Post "] = "Puesto del Veneno";
+		["Bloodvenom Post"] = "Puesto del Veneno";
 		["Bloodvenom River"] = "Río del Veneno";
 		["Deadwood Village"] = "Aldea Muertobosque";
 		["Emerald Sanctuary"] = "Santuario Esmeralda";
@@ -12002,7 +12001,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Shadow Hold"] = "Guarida Sombría";
 		["Shatter Scar Vale"] = "Cañada Gran Cicatriz";
 		["Shrine of the Deceiver"] = "Santuario del Impostor";
-		["Talonbranch Glade "] = "Claro Ramaespolón";
+		["Talonbranch Glade"] = "Claro Ramaespolón";
 		["Timbermaw Hold"] = "Bastión Fauces de Madera";
 		["Amberpine Lodge"] = "Refugio Pino Ámbar";
 		["Arriga Footbridge"] = "Pasarela de Arriga";
@@ -13178,7 +13177,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Ember Spear Tower"] = "Torre Lanza Ámbar";
 		["Emberstrife's Den"] = "Cubil de Brasaliza";
 		["Engine of the Makers"] = "Engine of the Makers";
-		["Engineering Labs "] = "Laboratorios de Ingeniería";
+		["Engineering Labs"] = "Laboratorios de Ingeniería";
 		["Excavation Center"] = "Centro de Excavación";
 		["Excavation Lift"] = "Elevador de la Excavación";
 		["Falconwing Square"] = "Plaza Alalcón";
@@ -13330,7 +13329,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Library Wing"] = "Biblioteca";
 		["Light's Point Tower"] = "Light's Point Tower";
 		["Lion's Pride Inn"] = "Posada Orgullo de León";
-		["Livery Stables "] = "Caballerizas";
+		["Livery Stables"] = "Caballerizas";
 		["Loading Room"] = "Zona de Carga";
 		["Loken's Bargain"] = "Loken's Bargain";
 		["Lost Point"] = "Punta Perdida";
@@ -13464,7 +13463,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Shadowshard Cavern"] = "Cueva Fragmento Oscuro";
 		["Shadowthread Cave"] = "Gruta Narácnida";
 		["Shalzaru's Lair"] = "Guarida de Shalzaru";
-		["Shaper's Terrace "] = "Bancal del Creador";
+		["Shaper's Terrace"] = "Bancal del Creador";
 		["Shattrath City"] = "Ciudad de Shattrath";
 		["Shrine of Eck"] = "Santuario de Eck";
 		["Shrine of Lost Souls"] = "Santuario de las Almas Perdidas";
@@ -13541,7 +13540,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Thandol Span"] = "Puente Thandol";
 		["The Apothecarium"] = "El Apothecarium";
 		["The Arachnid Quarter"] = "El Arrabal Arácnido";
-		["The Arcanium "] = "El Arcanium";
+		["The Arcanium"] = "El Arcanium";
 		["The Assembly Chamber"] = "La Cámara de la Asamblea";
 		["The Athenaeum"] = "El Athenaeum";
 		["The Banquet Hall"] = "La Sala de Banquetes";
@@ -13562,7 +13561,7 @@ elseif GAME_LOCALE == "esMX" then
 		["The Commerce Ward"] = "La Sala del Comercio";
 		["The Conservatory"] = "Conservatorio";
 		["The Construct Quarter"] = "Barrio de los Ensamblajes";
-		["The Coven "] = "El Aquelarre";
+		["The Coven"] = "El Aquelarre";
 		["The Crimson Cathedral"] = "La Catedral Carmesí";
 		["The Crimson Throne"] = "El Trono Carmesí";
 		["The Crimson Veil"] = "El Velo Carmesí";
@@ -13574,7 +13573,7 @@ elseif GAME_LOCALE == "esMX" then
 		["The Deathforge"] = "La Forja Muerta";
 		["The Den"] = "El Cubil";
 		["The Den of Flame"] = "Cubil de la Llama";
-		["The Domicile "] = "Domicilio";
+		["The Domicile"] = "Domicilio";
 		["The Dor'Danil Barrow Den"] = "El Túmulo de Dor'danil";
 		["The Dormitory"] = "Los Dormitorios";
 		["The Drag"] = "La Calle Mayor";
@@ -13666,14 +13665,14 @@ elseif GAME_LOCALE == "esMX" then
 		["The Scarlet Basilica"] = "La Basílica Escarlata";
 		["The Scarlet Bastion"] = "La Basílica Escarlata";
 		["The Screaming Hall"] = "La Sala del Grito";
-		["The Scullery "] = "La Sala de Limpieza";
+		["The Scullery"] = "La Sala de Limpieza";
 		["The Sealed Hall"] = "Cámara Sellada";
 		["The Seer's Library"] = "La Biblioteca del Profeta";
 		["The Sepulcher"] = "El Sepulcro";
 		["The Sewer"] = "La Cloaca";
 		["The Shadow Vault"] = "La Cámara de las Sombras";
 		["The Shady Nook"] = "El Rincón Lóbrego";
-		["The Shaper's Terrace "] = "El Bancal del Creador";
+		["The Shaper's Terrace"] = "El Bancal del Creador";
 		["The Shattered Halls"] = "Las Salas Arrasadas";
 		["The Shepherd's Gate"] = "La Puerta del Pastor";
 		["The Shrine of Eldretharr"] = "Santuario de Eldretharr";
@@ -13735,7 +13734,7 @@ elseif GAME_LOCALE == "esMX" then
 		["Tinker Town"] = "Ciudad Manitas";
 		["Tinkers' Court"] = "Cámara Manitas";
 		["Tomb of the Ancients"] = "Tumba de los Ancestros";
-		["Tome of the Unrepentant "] = "Libro de los Impenitentes";
+		["Tome of the Unrepentant"] = "Libro de los Impenitentes";
 		["Tower of Althalaxx"] = "Torre de Althalaxx";
 		["Tower of Azora"] = "Torre de Azora";
 		["Tower of Ilgalar"] = "Torre de Ilgalar";
@@ -14023,7 +14022,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Legash Encampment"] = "Лагерь Легаш";
 		["Ravencrest Monument"] = "Памятник Черному Ворону";
 		["Rethress Sanctum"] = "Святилище Ретресса";
-		["Ruins of Eldarath "] = "Руины Эльдарата";
+		["Ruins of Eldarath"] = "Руины Эльдарата";
 		["Scalebeard's Cave"] = "Пещера Чешуеборода";
 		["Shadowsong Shrine"] = "Святилище Песни Теней";
 		["Southfury River"] = "Река Строптивая";
@@ -14730,7 +14729,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Woodpaw Den"] = "Логово Древолапов";
 		["Woodpaw Hills"] = "Холмы Древолапов";
 		["Bloodvenom Falls"] = "Водопад Отравленной Крови";
-		["Bloodvenom Post "] = "Застава Отравленной Крови";
+		["Bloodvenom Post"] = "Застава Отравленной Крови";
 		["Bloodvenom River"] = "Река Отравленной Крови";
 		["Deadwood Village"] = "Деревня Мертвого Леса";
 		["Emerald Sanctuary"] = "Изумрудное святилище";
@@ -14745,7 +14744,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Shadow Hold"] = "Оплот Теней";
 		["Shatter Scar Vale"] = "Долина Рваных Ран";
 		["Shrine of the Deceiver"] = "Святилище Искусителя";
-		["Talonbranch Glade "] = "Поляна Когтистых Ветвей";
+		["Talonbranch Glade"] = "Поляна Когтистых Ветвей";
 		["Timbermaw Hold"] = "Крепость Древобрюхов";
 		["Amberpine Lodge"] = "Приют Янтарной Сосны";
 		["Arriga Footbridge"] = "Arriga Footbridge";
@@ -15921,7 +15920,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Ember Spear Tower"] = "Тлеющая башня";
 		["Emberstrife's Den"] = "Логово Огнебора";
 		["Engine of the Makers"] = "Орудие Творцов";
-		["Engineering Labs "] = "Инженерные лаборатории";
+		["Engineering Labs"] = "Инженерные лаборатории";
 		["Excavation Center"] = "Центральный раскоп";
 		["Excavation Lift"] = "Подъемник у раскопок";
 		["Falconwing Square"] = "Площадь Соколиных Крыльев";
@@ -16073,7 +16072,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Library Wing"] = "Библиотечное крыло";
 		["Light's Point Tower"] = "Башня Заставы Света";
 		["Lion's Pride Inn"] = "Таверна Гордость льва";
-		["Livery Stables "] = "Стойла";
+		["Livery Stables"] = "Стойла";
 		["Loading Room"] = "Погрузочная";
 		["Loken's Bargain"] = "Доля Локена";
 		["Lost Point"] = "Разрушенная башня";
@@ -16207,7 +16206,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Shadowshard Cavern"] = "Пещера Темных Осколков";
 		["Shadowthread Cave"] = "Паучье логово";
 		["Shalzaru's Lair"] = "Убежище Шалзару";
-		["Shaper's Terrace "] = "Терраса Создателя";
+		["Shaper's Terrace"] = "Терраса Создателя";
 		["Shattrath City"] = "Шаттрат";
 		["Shrine of Eck"] = "Shrine of Eck";
 		["Shrine of Lost Souls"] = "Святилище Потерянных Душ";
@@ -16284,7 +16283,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Thandol Span"] = "Мост Тандола";
 		["The Apothecarium"] = "Район Фармацевтов";
 		["The Arachnid Quarter"] = "The Arachnid Quarter";
-		["The Arcanium "] = "Арканиум";
+		["The Arcanium"] = "Арканиум";
 		["The Assembly Chamber"] = "Чертог собраний";
 		["The Athenaeum"] = "Читальня";
 		["The Banquet Hall"] = "Пиршественный зал";
@@ -16305,7 +16304,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["The Commerce Ward"] = "Двор торговцев";
 		["The Conservatory"] = "Зимний сад";
 		["The Construct Quarter"] = "The Construct Quarter";
-		["The Coven "] = "Ведьмин зал";
+		["The Coven"] = "Ведьмин зал";
 		["The Crimson Cathedral"] = "The Crimson Cathedral";
 		["The Crimson Throne"] = "Кровавый трон";
 		["The Crimson Veil"] = "Кровавая Завеса";
@@ -16317,7 +16316,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["The Deathforge"] = "Кузница Смерти";
 		["The Den"] = "Логово";
 		["The Den of Flame"] = "Огненное логово";
-		["The Domicile "] = "Жилой квартал";
+		["The Domicile"] = "Жилой квартал";
 		["The Dor'Danil Barrow Den"] = "Обитель Дор'Данил";
 		["The Dormitory"] = "Спальни";
 		["The Drag"] = "Волок";
@@ -16408,7 +16407,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["The Scarlet Basilica"] = "Алая Базилика";
 		["The Scarlet Bastion"] = "Бастион Алого ордена";
 		["The Screaming Hall"] = "Зал Воплей";
-		["The Scullery "] = "Судомойня";
+		["The Scullery"] = "Судомойня";
 		["The Sealed Hall"] = "Запечатанный зал";
 		["The Seer's Library"] = "Библиотека Провидца";
 		["The Sepulcher"] = "Гробница";
@@ -16477,7 +16476,7 @@ elseif GAME_LOCALE == "ruRU" then
 		["Tinker Town"] = "Город Механиков";
 		["Tinkers' Court"] = "Двор Механиков";
 		["Tomb of the Ancients"] = "Tomb of the Ancients";
-		["Tome of the Unrepentant "] = "Фолиант Нераскаявшегося";
+		["Tome of the Unrepentant"] = "Фолиант Нераскаявшегося";
 		["Tower of Althalaxx"] = "Башня Алталакса";
 		["Tower of Azora"] = "Башня Азоры";
 		["Tower of Ilgalar"] = "Башня Илгалара";
@@ -16600,6 +16599,137 @@ elseif GAME_LOCALE == "ruRU" then
 }
 elseif GAME_LOCALE == "zhCN" then
 	lib:SetCurrentTranslations {
+		--Black Temple, Start
+		["Karabor Sewers"] = 			"卡拉波下水道";
+		["Illidari Training Grounds"] = 	"伊利达雷训练场";
+		["Sanctuary of Shadows"] = 		"暗影圣殿";
+		["The Refectory"] = 			"餐厅";
+		--Black Temple, Basement
+		["Gorefiend's Vigil"] = 		"血魔之厅";
+		["Halls of Anguish"] = 			"苦痛大厅";
+		["Shrine of Lost Souls"] = 		"失落灵魂神殿";
+		--Black Temple, Top
+		["Den of Mortal Delights"] = 		"欢愉之园";
+		["Grand Promenade"] = 			"壮丽步道";
+		["Chamber of Command"] = 		"命令大厅";
+		["Temple Summit"] = 			"神殿之巅";
+		--Karazhan, Start
+		["The Gatehouse"] = 			"门房";
+		["Livery Stables"] = 			"马厩";
+		["The Guardhouse"] = 			"警卫室";
+		["The Scullery"] = 			"厨房";
+		["Servants' Quarters"] = 		"仆役宿舍";
+		["The Grand Ballroom"] = 		"舞厅";
+		["The Banquet Hall"] = 			"宴会厅";
+		["The Guest Chambers"] = 		"会客间";
+		["The Opera Hall"] = 			"歌剧院";
+		["The Broken Stair"] = 			"破碎阶梯";
+		["Master's Terrace"] = 			"主宰的露台";
+		--Karazhan, End
+		["The Menagerie"] = 			"展览馆";
+		["Guardian's Library"] = 		"守护者的图书馆";
+		["The Repository"] = 			"储藏室";
+		["The Celestial Watch"] = 		"观星大厅";
+		["Gamesman's Hall"] = 			"象棋大厅";
+		["Medivh's Chambers"] = 		"麦迪文的房间";
+		["Master's Terrace"] = 			"主宰的露台";
+		["Netherspace"] = 			"虚空异界";
+		--Dire Maul, Entrance
+		["Broken Commons"] = 			"平民区废墟";
+		["Eldreth Row"] = 			"艾德雷斯区";
+		["The Maul"] = 				"巨槌竞技场";
+		--Dire Maul, North
+		["Halls of Destruction"] = 		"毁灭大厅";
+		["Gordok's Seat"] = 			"戈多克的王座";
+		--Dire Maul, East
+		["Warpwood Quarter"] = 			"扭木广场";
+		["The Hidden Reach"] = 			"密径";
+		["The Conservatory"] = 			"温室";
+		["The Shrine of Eldretharr"] = 		"艾德雷斯神殿";
+		--Dire Maul, West
+		["Capital Gardens"] = 			"中心花园";
+		["Court of the Highborne"] = 		"上层精灵庭院";
+		["Prison of Immol'thar"] = 		"伊莫塔尔的牢笼";
+		["The Athenaeum"] = 			"图书馆";
+		--Blackrock Spire, Lower
+		["Hordemar City"] = 			"霍德玛尔城";
+		["Mok'Doom"] = 				"摩多姆";
+		["Tazz'Alaor"] = 			"塔萨洛尔";
+		["Skitterweb Tunnels"] = 		"蛛网隧道";
+		["Halycon's Lair"] = 			"哈雷肯之巢";
+		["The Storehouse"] = 			"仓库";
+		["Chamber of Battle"] = 		"战斗之厅";
+		--Blackrock Spire, Upper
+		["Dragonspire Hall"] = 			"龙塔大厅";
+		["Hall of Binding"] = 			"禁锢之厅";
+		["The Rookery"] = 			"孵化间";
+		["Hall of Blackhand"] = 		"黑手大厅";
+		["Blackrock Stadium"] = 		"黑石竞技场";
+		["The Furnace"] = 			"熔炉";
+		["Spire Throne"] = 			"尖塔王座";
+		-- Blackrock Depths
+		["The Grinding Quarry"] = 		"碾石场";
+		["The Masonary"] = 			"石匠区";
+		--Scarlet Monastery, Entrance
+		["The Grand Vestibule"] = 		"大门廊";
+		--Scarlet Monastery, Graveyard
+		["Chamber of Atonement"] = 		"忏悔室";
+		["Forlorn Cloister"] = 			"遗忘回廊";
+		["Honor's Tomb"] = 			"荣耀之墓";
+		--Scarlet Monastery, Library
+		["Huntsman's Cloister"] = 		"猎手回廊";
+		["Gallery of Treasures"] = 		"珍宝陈列室";
+		["Athenaeum"] = 			"图书馆";
+		--Scarlet Monastery, Armory
+		["Training Grounds"] = 			"训练场";
+		["Footman's Armory"] = 			"步兵武器库";
+		["Crusader's Armory"] = 		"十字军武器库";
+		["Hall of Champions"] = 		"勇士大厅";
+		--Scarlet Monastery, Cathedral
+		["Chapel Gardens"] = 			"教堂花园";
+		["Crusader's Chapel"] = 		"十字军礼拜堂";
+		--Ulduar, The Siege
+		["Expedition Base Camp"] = 		"远征军营地";
+		["Iron Concourse"] = 			"钢铁广场";
+		["Formation Grounds"] = 		"练兵场";
+		["Razorscale's Aerie"] = 		"锋鳞之巢";
+		["The Colossal Forge"] = 		"巨人熔炉";
+		["The Scrapyard"] = 			"废料场";
+		--Ulduar, The Antechamber
+		["The Antechamber"] = 			"前厅";
+		["The Assembly of Iron"] = 		"钢铁议会";
+		["The Archivum"] = 			"档案馆";
+		["The Celestial Planetarium"] = 	"天文台";
+		["The Shattered Walkway"] = 		"破碎通道";
+		--Ulduar, The Keepers
+		["The Observation Ring"] = 		"观测场";
+		["The Halls of Winter"] = 		"寒冬大厅";
+		["The Clash of Thunder"] = 		"雷霆角斗场";
+		["The Conservatory of Life"] = 		"生命温室";
+		["The Corridors of Ingenuity"] = 	"发明回廊";
+		["Hall of Memories"] = 			"回忆大厅";
+		--Ulduar, Spark of Imagination
+		["The LMS Mark II"] = 			"LMS-II型地铁";	
+		["The Spark of Imagination"] = 		"思想火花";
+		--Ulduar, Descent into Madness
+		["The Descent into Madness"] = 		"疯狂阶梯";
+		["The Prison of Yogg-Saron"] = 		"尤格-萨隆的监狱";
+		["The Mind's Eye"] = 			"心灵之眼";
+		--Icecrown Citadell, Lower
+		["Light's Hammer"] = 			"圣光之锤";		-- need to be reviewed after WoW 3.3.3 is available for China
+		["Oratory of the Damned"] = 		"诅咒祈愿室"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["Rampart of Skulls"] = 		"骸颅壁垒"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["Deathbringer's Rise"] = 		"死亡使者高岗"; -- need to be reviewed after WoW 3.3.3 is available for China
+		--Icecrown Citadell, Upper
+		["The Plagueworks"] = 			"瘟疫工坊"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["Putricide's Laboratory of Alchemical Horrors and Fun"] = 	"普崔希德的恐惧与欢乐炼金实验室"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["The Crimson Hall"] = 			"赤红大厅"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["The Sanctum of Blood"] = 		"血之圣所"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["The Frostwing Halls"] = 		"霜翼大厅"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["The Frost Queen's Lair"] = 		"霜翼之巢"; -- need to be reviewed after WoW 3.3.3 is available for China
+		--Icecrown Citadell, Frozen Throne
+		["The Frozen Throne"] = 		"冰封王座"; -- need to be reviewed after WoW 3.3.3 is available for China
+		["Frostmourne"] = 			"霜之哀伤";
 }
 elseif GAME_LOCALE == "zhTW" then
 	lib:SetCurrentTranslations {
@@ -16808,7 +16938,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Legash Encampment"] = "雷加什營地";
 		["Ravencrest Monument"] = "黑羽紀念碑";
 		["Rethress Sanctum"] = "雷瑟斯聖所";
-		["Ruins of Eldarath "] = "埃達拉斯廢墟";
+		["Ruins of Eldarath"] = "埃達拉斯廢墟";
 		["Scalebeard's Cave"] = "鱗鬚洞穴";
 		["Shadowsong Shrine"] = "影歌神殿";
 		["Southfury River"] = "怒水河";
@@ -17515,7 +17645,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Woodpaw Den"] = "木爪巢穴";
 		["Woodpaw Hills"] = "木爪嶺";
 		["Bloodvenom Falls"] = "血毒瀑布";
-		["Bloodvenom Post "] = "血毒崗哨";
+		["Bloodvenom Post"] = "血毒崗哨";
 		["Bloodvenom River"] = "血毒河";
 		["Deadwood Village"] = "死木村";
 		["Emerald Sanctuary"] = "翡翠聖地";
@@ -17530,7 +17660,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Shadow Hold"] = "暗影堡";
 		["Shatter Scar Vale"] = "碎痕谷";
 		["Shrine of the Deceiver"] = "欺詐者神殿";
-		["Talonbranch Glade "] = "刺枝林地";
+		["Talonbranch Glade"] = "刺枝林地";
 		["Timbermaw Hold"] = "木喉要塞";
 		["Amberpine Lodge"] = "琥珀松小屋";
 		["Arriga Footbridge"] = "艾瑞加之橋";
@@ -18706,7 +18836,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Ember Spear Tower"] = "餘燼矛塔";
 		["Emberstrife's Den"] = "艾博斯塔夫的巢穴";
 		["Engine of the Makers"] = "造物者動力核心";
-		["Engineering Labs "] = "工程實驗室";
+		["Engineering Labs"] = "工程實驗室";
 		["Excavation Center"] = "挖掘中心";
 		["Excavation Lift"] = "挖掘升降梯";
 		["Falconwing Square"] = "獵鷹之翼廣場";
@@ -18858,7 +18988,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Library Wing"] = "藏書房";
 		["Light's Point Tower"] = "聖光之尖哨塔";
 		["Lion's Pride Inn"] = "獅王之傲旅店";
-		["Livery Stables "] = "獸欄";
+		["Livery Stables"] = "獸欄";
 		["Loading Room"] = "裝載室";
 		["Loken's Bargain"] = "洛肯的交易地";
 		["Lost Point"] = "迷失哨塔";
@@ -18992,7 +19122,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Shadowshard Cavern"] = "裂影洞穴";
 		["Shadowthread Cave"] = "影絲洞";
 		["Shalzaru's Lair"] = "沙爾札魯之巢";
-		["Shaper's Terrace "] = "塑造者殿堂";
+		["Shaper's Terrace"] = "塑造者殿堂";
 		["Shattrath City"] = "撒塔斯城";
 		["Shrine of Eck"] = "埃克聖壇";
 		["Shrine of Lost Souls"] = "失落靈魂神殿";
@@ -19069,7 +19199,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Thandol Span"] = "薩多爾大橋";
 		["The Apothecarium"] = "鍊金房";
 		["The Arachnid Quarter"] = "蜘蛛區";
-		["The Arcanium "] = "奧金區";
+		["The Arcanium"] = "奧金區";
 		["The Assembly Chamber"] = "集會之廳";
 		["The Athenaeum"] = "圖書館";
 		["The Banquet Hall"] = "宴會大廳";
@@ -19090,7 +19220,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["The Commerce Ward"] = "商業區";
 		["The Conservatory"] = "大溫室";
 		["The Construct Quarter"] = "傀儡區";
-		["The Coven "] = "巫師會所";
+		["The Coven"] = "巫師會所";
 		["The Crimson Cathedral"] = "赤紅大教堂";
 		["The Crimson Throne"] = "赤色王座";
 		["The Crimson Veil"] = "赤紅之霧";
@@ -19102,7 +19232,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["The Deathforge"] = "死亡熔爐";
 		["The Den of Flame"] = "火焰洞穴";
 		["The Den"] = "大獸穴";
-		["The Domicile "] = "住宅區";
+		["The Domicile"] = "住宅區";
 		["The Dor'Danil Barrow Den"] = "朵丹尼爾獸穴";
 		["The Dormitory"] = "宿舍";
 		["The Drag"] = "暗巷區";
@@ -19194,14 +19324,14 @@ elseif GAME_LOCALE == "zhTW" then
 		["The Scarlet Basilica"] = "血色十字軍教堂";
 		["The Scarlet Bastion"] = "血色十字軍堡壘";
 		["The Screaming Hall"] = "尖嘯大廳";
-		["The Scullery "] = "貯藏室";
+		["The Scullery"] = "貯藏室";
 		["The Sealed Hall"] = "封印大廳";
 		["The Seer's Library"] = "先知書庫";
 		["The Sepulcher"] = "瑟伯切爾";
 		["The Sewer"] = "下水道";
 		["The Shadow Vault"] = "暗影穹殿";
 		["The Shady Nook"] = "林蔭小徑";
-		["The Shaper's Terrace "] = "塑造者殿堂";
+		["The Shaper's Terrace"] = "塑造者殿堂";
 		["The Shattered Halls"] = "破碎大廳";
 		["The Shepherd's Gate"] = "牧羊人之門";
 		["The Shrine of Eldretharr"] = "艾德雷斯神殿";
@@ -19263,7 +19393,7 @@ elseif GAME_LOCALE == "zhTW" then
 		["Tinker Town"] = "地精區";
 		["Tinkers' Court"] = "技工議會";
 		["Tomb of the Ancients"] = "先祖陵寢";
-		["Tome of the Unrepentant "] = "無悔者之書";
+		["Tome of the Unrepentant"] = "無悔者之書";
 		["Tower of Althalaxx"] = "奧薩拉克斯之塔";
 		["Tower of Azora"] = "阿祖拉之塔";
 		["Tower of Ilgalar"] = "伊爾加拉之塔";
