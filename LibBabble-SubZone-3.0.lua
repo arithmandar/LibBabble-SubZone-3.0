@@ -2471,7 +2471,7 @@ if GAME_LOCALE == "enUS" then
 elseif GAME_LOCALE == "deDE" then
 	lib:SetCurrentTranslations 
 {
-	["The Frozen Halls"] = "Gefrorene Hallen",
+	["The Frozen Halls"] = "Die gefrorenen Hallen",
 	["7th Legion Front"] = "Front der 7. Legion",
 	["Abandoned Armory"] = "Verlassenes Rüstlager",
 	["Abandoned Camp"] = "Verlassenes Lager",
@@ -2765,7 +2765,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Chamber of Command"] = "Kommandoraum",
 	["Chamber of Enchantment"] = "Kammer der Verzauberung",
 	["Chamber of Summoning"] = "Kammer der Beschwörung",
-	["Chamber of the Aspects"] = "Die Kammer der Aspekte", -- Needs review
+	["Chamber of the Aspects"] = "Kammer der Aspekte",
 	["Chamber of the Dreamer"] = "Kammer der Träumerin",
 	["Chamber of the Restless"] = "Kammer der Ruhelosen",
 	["Champion's Hall"] = "Halle der Champions",
