@@ -7438,7 +7438,7 @@ elseif GAME_LOCALE == "deDE" then
 	["The Frozen Halls"] = "Die gefrorenen Hallen",
 	["The Frozen Mine"] = "Die gefrorene Mine",
 	["The Frozen Sea"] = "Die gefrorene See",
-	["The Frozen Throne"] = "Der gefrorene Thron",
+	["The Frozen Throne"] = "Der Frostthron", -- need to be "Der Frostthron"
 	["The Fungal Vale"] = "Das Fungustal",
 	["The Furnace"] = "Der Schmelzofen",
 	["The Gaping Chasm"] = "Die Klaffende Schlucht",
