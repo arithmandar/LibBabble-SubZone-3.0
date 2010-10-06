@@ -18226,7 +18226,7 @@ elseif GAME_LOCALE == "zhCN" then
 	["The Frost Queen's Lair"] = "霜翼之巢",
 	["The Frostwing Halls"] = "霜翼大厅",
 	["The Frozen Glade"] = "冰雪林地",
-	["The Frozen Halls"] = "冰封大厅" -- Needs review,
+	["The Frozen Halls"] = "冰封大厅", -- Needs review
 	["The Frozen Mine"] = "冰霜矿洞",
 	["The Frozen Sea"] = "冰冻之海",
 	["The Frozen Throne"] = "冰封王座",
