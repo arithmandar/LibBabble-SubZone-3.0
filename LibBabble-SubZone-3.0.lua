@@ -10002,7 +10002,7 @@ elseif GAME_LOCALE == "deDE" then
 	["The Half Shell"] = "Die Halbmuschel",
 	["The Hall of Blood"] = "Die Halle des Blutes",
 	["The Hall of Gears"] = "Die Halle der Zahnräder",
-	["The Hall of Lights"] = "Galerie der Schätze",
+	["The Hall of Lights"] = "Die Halle der Lichter",
 	["The Hall of Respite"] = "Die Halle der Ruhe",
 	["The Halls of Reanimation"] = "Die Hallen der Wiederbelebung",
 	["The Halls of Winter"] = "Die Hallen des Winters",
