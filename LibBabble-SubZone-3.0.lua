@@ -23,6 +23,7 @@ local GAME_LOCALE = GetLocale()
 
 lib:SetBaseTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "Temple of Ahn'Qiraj",
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "7th Legion Front",
 	["7th Legion Submarine"] = "7th Legion Submarine",
@@ -3639,6 +3640,7 @@ if GAME_LOCALE == "enUS" then
 elseif GAME_LOCALE == "frFR" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "Le temple d'Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Campement de la 7e Légion",
 	["7th Legion Front"] = "Front de la 7e Légion",
 	["7th Legion Submarine"] = "Sous-marin de la 7e Légion",
@@ -7252,6 +7254,7 @@ elseif GAME_LOCALE == "frFR" then
 elseif GAME_LOCALE == "deDE" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "Tempel von Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Basislager der 7. Legion",
 	["7th Legion Front"] = "Front der 7. Legion",
 	["7th Legion Submarine"] = "U-Boot der 7. Legion",
@@ -10865,6 +10868,7 @@ elseif GAME_LOCALE == "deDE" then
 elseif GAME_LOCALE == "koKR" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "안퀴라즈 사원",
 	["7th Legion Base Camp"] = "7군단 주둔지",
 	["7th Legion Front"] = "7군단 전초지",
 	["7th Legion Submarine"] = "7군단 잠수함",
@@ -14478,6 +14482,7 @@ elseif GAME_LOCALE == "koKR" then
 elseif GAME_LOCALE == "esMX" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "El Templo de Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Campamento base de la Séptima Legión",
 	["7th Legion Front"] = "Frente de la Séptima Legión",
 	["7th Legion Submarine"] = "Submarino de la Séptima Legión",
@@ -18091,6 +18096,7 @@ elseif GAME_LOCALE == "esMX" then
 elseif GAME_LOCALE == "esES" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "El Templo de Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Campamento base de la Séptima Legión",
 	["7th Legion Front"] = "Frente de la Séptima Legión",
 	["7th Legion Submarine"] = "Submarino de la Séptima Legión",
@@ -21704,6 +21710,7 @@ elseif GAME_LOCALE == "esES" then
 elseif GAME_LOCALE == "ruRU" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "Храм Ан'Кираж",
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "Передовая 7-го легиона",
 	["7th Legion Submarine"] = "Подводная лодка 7-го легиона",
@@ -25317,6 +25324,7 @@ elseif GAME_LOCALE == "ruRU" then
 elseif GAME_LOCALE == "zhCN" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "安其拉神殿",
 	-- ["7th Legion Base Camp"] = "",
 	["7th Legion Front"] = "第七军团前线",
 	-- ["7th Legion Submarine"] = "",
@@ -28930,6 +28938,7 @@ elseif GAME_LOCALE == "zhCN" then
 elseif GAME_LOCALE == "zhTW" then
 	lib:SetCurrentTranslations 
 {
+	["Temple of Ahn'Qiraj"] = "安其拉神廟",
 	["7th Legion Base Camp"] = "第七軍團營地",
 	["7th Legion Front"] = "第七軍團前線",
 	["7th Legion Submarine"] = "第七軍團潛水艇",
