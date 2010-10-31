@@ -23,6 +23,7 @@ local GAME_LOCALE = GetLocale()
 
 lib:SetBaseTranslations 
 {
+	["The Eye"] = "The Eye",
 	["Temple of Ahn'Qiraj"] = "Temple of Ahn'Qiraj",
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "7th Legion Front",
@@ -3640,6 +3641,7 @@ if GAME_LOCALE == "enUS" then
 elseif GAME_LOCALE == "frFR" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "L'Œil",
 	["Temple of Ahn'Qiraj"] = "Le temple d'Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Campement de la 7e Légion",
 	["7th Legion Front"] = "Front de la 7e Légion",
@@ -7254,6 +7256,7 @@ elseif GAME_LOCALE == "frFR" then
 elseif GAME_LOCALE == "deDE" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "Das Auge",
 	["Temple of Ahn'Qiraj"] = "Tempel von Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Basislager der 7. Legion",
 	["7th Legion Front"] = "Front der 7. Legion",
@@ -10868,6 +10871,7 @@ elseif GAME_LOCALE == "deDE" then
 elseif GAME_LOCALE == "koKR" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "눈",
 	["Temple of Ahn'Qiraj"] = "안퀴라즈 사원",
 	["7th Legion Base Camp"] = "7군단 주둔지",
 	["7th Legion Front"] = "7군단 전초지",
@@ -14482,6 +14486,7 @@ elseif GAME_LOCALE == "koKR" then
 elseif GAME_LOCALE == "esMX" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "El Ojo",
 	["Temple of Ahn'Qiraj"] = "El Templo de Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Campamento base de la Séptima Legión",
 	["7th Legion Front"] = "Frente de la Séptima Legión",
@@ -18096,6 +18101,7 @@ elseif GAME_LOCALE == "esMX" then
 elseif GAME_LOCALE == "esES" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "El Ojo",
 	["Temple of Ahn'Qiraj"] = "El Templo de Ahn'Qiraj",
 	["7th Legion Base Camp"] = "Campamento base de la Séptima Legión",
 	["7th Legion Front"] = "Frente de la Séptima Legión",
@@ -21710,6 +21716,7 @@ elseif GAME_LOCALE == "esES" then
 elseif GAME_LOCALE == "ruRU" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "Око",
 	["Temple of Ahn'Qiraj"] = "Храм Ан'Кираж",
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "Передовая 7-го легиона",
@@ -25324,6 +25331,7 @@ elseif GAME_LOCALE == "ruRU" then
 elseif GAME_LOCALE == "zhCN" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "风暴要塞",
 	["Temple of Ahn'Qiraj"] = "安其拉神殿",
 	-- ["7th Legion Base Camp"] = "",
 	["7th Legion Front"] = "第七军团前线",
@@ -28938,6 +28946,7 @@ elseif GAME_LOCALE == "zhCN" then
 elseif GAME_LOCALE == "zhTW" then
 	lib:SetCurrentTranslations 
 {
+	["The Eye"] = "風暴要塞",
 	["Temple of Ahn'Qiraj"] = "安其拉神廟",
 	["7th Legion Base Camp"] = "第七軍團營地",
 	["7th Legion Front"] = "第七軍團前線",
