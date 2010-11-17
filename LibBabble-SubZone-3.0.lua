@@ -23,6 +23,8 @@ local GAME_LOCALE = GetLocale()
 
 lib:SetBaseTranslations 
 {
+	["The Eye"] = "The Eye",
+	["Temple of Ahn'Qiraj"] = "Temple of Ahn'Qiraj",
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "7th Legion Front",
 	["7th Legion Submarine"] = "7th Legion Submarine",
@@ -1654,6 +1656,7 @@ lib:SetBaseTranslations
 	["Northgate Woods"] = "Northgate Woods",
 	["Northmaul Tower"] = "Northmaul Tower",
 	["Northpass Tower"] = "Northpass Tower",
+	Northrend = "Northrend",
 	["Northridge Lumber Camp"] = "Northridge Lumber Camp",
 	["Northshire Abbey"] = "Northshire Abbey",
 	["Northshire River"] = "Northshire River",
