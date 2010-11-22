@@ -7300,8 +7300,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Bor's Breath River"] = "Bors Atemstrom",
 	["Bor's Fall"] = "Bors Sturz",
 	["Bor's Fury"] = "Bors Zorn",
-	["Borean Tundra"] = [=[Boreanische Tundra
-]=],
+	["Borean Tundra"] = "Boreanische Tundra",
 	["Borune Ruins"] = "Ruinen von Borune",
 	["Bough Shadow"] = "Schattengrün",
 	["Boulder Hills"] = "Felshügel",
@@ -7655,7 +7654,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Drak'Mar Lake"] = "Drak'Marsee",
 	["Drak'Sotra"] = "Drak'Sotra",
 	["Drak'Sotra Fields"] = "Felder von Drak'Sotra",
-	["Drak'Tharon Keep"] = "Feste von Drak'Tharon",
+	["Drak'Tharon Keep"] = "Feste Drak'Tharon",
 	["Drak'Tharon Keep Entrance"] = "Eingang zur Feste Drak'Tharon",
 	["Drak'Tharon Overlook"] = "Aussichtspunkt von Drak'Tharon",
 	["Drak'atal Passage"] = "Passage von Drak'atal",
