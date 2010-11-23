@@ -10125,7 +10125,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Tranquil Wash"] = "Der Stille Strand",
 	Tranquillien = "Tristessa",
 	Transborea = "Transborea",
-	["Transitus Shield"] = "Transitus Shield",
+	["Transitus Shield"] = "Transitusschild",
 	["Transport: Alliance Gunship"] = "Transport: Kanonenboot der Allianz",
 	["Transport: Horde Gunship"] = "Transport: Kanonenboot der Horde",
 	["Trelleum Mine"] = "Trelleummine",
