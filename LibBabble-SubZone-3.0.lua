@@ -7927,7 +7927,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Forsaken High Command"] = "Kommandozentrale der Verlassenen",
 	["Forsaken Rear Guard"] = "Die Rückendeckung der Verlassenen",
 	["Fort Livingston"] = "Fort Livingston",
-	["Fort Triumph"] = "Fort Triumph",
+	["Fort Triumph"] = "Triumphfeste",
 	["Fort Wildervar"] = "Fort Wildervar",
 	["Fortune's Fist"] = "Schicksalsfaust",
 	["Forward Command"] = "Gefechtsstand",
