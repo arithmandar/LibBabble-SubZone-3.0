@@ -10348,7 +10348,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Vul'Gol Ogre Mound"] = "Ogerhort Vul'Gol",
 	["Vyletongue Seat"] = "Schlangenzunges Sitz",
 	["Wahl Cottage"] = "Wahls Landhaus",
-	["Wailing Caverns"] = "Höhlen des Wehklagens",
+	["Wailing Caverns"] = "Die Höhlen des Wehklagens",
 	["Walk of Elders"] = "Straße der Urahnen",
 	["War Quarter"] = "Kriegsviertel",
 	["War Room"] = "Kriegsraum",
