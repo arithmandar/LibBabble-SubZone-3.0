@@ -30401,7 +30401,7 @@ elseif GAME_LOCALE == "zhTW" then
 	["Swindle Street"] = "騙你錢商店街",
 	["Swindlegrin's Dig"] = "詐咧挖掘場",
 	["Sword's Rest"] = "劍息之地",
-	Sylvanaar = "希瓦納爾",
+	Sylvanaar = "希爾瓦納",
 	["Tabetha's Farm"] = "塔貝薩的農場",
 	["Taelan's Tower"] = "泰蘭之塔",
 	["Tahonda Ruins"] = "塔霍達廢墟",
