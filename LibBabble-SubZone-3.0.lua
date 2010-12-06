@@ -8517,7 +8517,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Mardenholde Keep"] = "Burg Mardenholde",
 	["Market Row"] = "Marktgasse",
 	["Marshal's Refuge"] = "Marschalls Zuflucht",
-	["Marshal's Stand"] = "Marschalls Wacht",
+	["Marshal's Stand"] = "Marschalls Wehr",
 	["Marshlight Lake"] = "Sumpflichtsee",
 	["Marshtide Watch"] = "Sumpftidenwacht",
 	["Maruadon - The Wicked Grotto Entrance"] = "Maraudon - Eingang zur Tückischen Grotte",
