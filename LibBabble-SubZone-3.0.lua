@@ -9004,7 +9004,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Scarab Terrace"] = "Skarabäusterrasse",
 	["Scarlet Encampment"] = "Scharlachrote Lagerstatt",
 	["Scarlet Hold"] = "Scharlachrote Festung",
-	["Scarlet Monastery"] = "Scharlachrotes Kloster",
+	["Scarlet Monastery"] = "Das Scharlachrote Kloster",
 	["Scarlet Monastery Entrance"] = "Eingang zum Scharlachroten Kloster",
 	["Scarlet Overlook"] = "Scharlachroter Rundblick",
 	["Scarlet Palisade"] = "Scharlachrote Palisade",
