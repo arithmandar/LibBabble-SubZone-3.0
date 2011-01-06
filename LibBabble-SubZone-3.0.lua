@@ -7760,7 +7760,7 @@ elseif GAME_LOCALE == "deDE" then
 	["East Supply Caravan"] = "Östliche Versorgungskarawane",
 	["Eastern Bridge"] = "Östliche Brücke",
 	["Eastern Kingdoms"] = "Östliche Königreiche",
-	["Eastern Plaguelands"] = "Die Östlichen Pestländer",
+	["Eastern Plaguelands"] = "Östliche Pestländer",
 	["Eastern Strand"] = "Oststrand",
 	["Eastmoon Ruins"] = "Ostmondruinen",
 	["Eastpoint Tower"] = "Ostwachtturm",
