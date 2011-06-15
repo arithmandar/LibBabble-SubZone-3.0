@@ -7854,7 +7854,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Eco-Dome Midrealm"] = "Biokuppel Mittelreich",
 	["Eco-Dome Skyperch"] = "Biokuppel Himmelssitz",
 	["Eco-Dome Sutheron"] = "Biokuppel Sutheron",
-	["Edge of Madness"] = "Rand des Wahnsinns",
+	["Edge of Madness"] = "Der Hort des Wahnsinns",
 	["Elder Rise"] = "Die Anhöhe der Ältesten",
 	["Elders' Square"] = "Ältestenplatz",
 	["Eldreth Row"] = "Eldrethgasse",
