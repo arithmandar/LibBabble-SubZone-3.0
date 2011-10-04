@@ -9770,7 +9770,7 @@ elseif GAME_LOCALE == "deDE" then
 	["The Escape from Durnholde Entrance"] = "Eingang zur Flucht von Durnholde",
 	["The Eventide"] = "Die Abendruh",
 	["The Exodar"] = "Die Exodar",
-	["The Eye"] = "Das Auge",
+	["The Eye"] = "Festung der Stürme",
 	["The Eye of Eternity"] = "Das Auge der Ewigkeit",
 	["The Eye of the Vortex"] = "Das Auge des Vortex",
 	["The Farstrider Lodge"] = "Jagdhütte der Weltenwanderer",
