@@ -31999,6 +31999,10 @@ elseif GAME_LOCALE == "zhTW" then
 	["Zuuldaia Ruins"] = "祖丹亞廢墟",
 }
 
+elseif GAME_LOCALE == "ptBR" then
+	lib:SetCurrentTranslations 
+{
+}
 else
 	error(("%s: Locale %q not supported"):format(MAJOR_VERSION, GAME_LOCALE))
 end
