@@ -3915,7 +3915,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Bor's Breath River"] = "Bors Atemstrom",
 	["Bor's Fall"] = "Bors Sturz",
 	["Bor's Fury"] = "Bors Zorn",
-	["Borean Tundra"] = "Naglvar",
+	["Borean Tundra"] = "Boreanische Tundra",
 	["Borune Ruins"] = "Ruinen von Borune",
 	["Bough Shadow"] = "Schattengrün",
 	["Boulder Hills"] = "Felshügel",
