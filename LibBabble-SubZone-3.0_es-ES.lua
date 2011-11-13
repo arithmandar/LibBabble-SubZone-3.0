@@ -14,7 +14,7 @@ local GAME_LOCALE = GetLocale()
 -- Notes: Do not manually edit the translation here, as it may be overwritten by WoWAce localization automation tool
 -- To revise translation, please visit: http://www.wowace.com/addons/libbabble-subzone-3-0/localization/
 
-if GAME_LOCALE == "esES" then
+if GAME_LOCALE == "esES" or GAME_LOCALE == "esMX" then
 	LibBabbleSubZone:SetCurrentTranslations 
 {
 	["7th Legion Base Camp"] = "Campamento base de la Séptima Legión",
