@@ -3629,5 +3629,6 @@ elseif GAME_LOCALE == "deDE" or GAME_LOCALE == "esES" or GAME_LOCALE == "esMX" o
 	-- do nothing
 else
 	--error(("%s: Locale %q not supported"):format(MAJOR_VERSION, GAME_LOCALE))
+	--set to enUS instead of throughing out error
 	LibBabbleSubZone:SetCurrentTranslations(true)
 end
