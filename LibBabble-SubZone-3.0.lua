@@ -3625,7 +3625,7 @@ LibBabbleSubZone:SetBaseTranslations
 
 if GAME_LOCALE == "enUS" then
 	LibBabbleSubZone:SetCurrentTranslations(true)
-elseif GAME_LOCALE == "deDE" or GAME_LOCALE == "esES" or GAME_LOCALE == "esMX" or GAME_LOCALE == "frFR" or GAME_LOCALE == "koKR" or GAME_LOCALE == "ptBR" or GAME_LOCALE == "ruRU" or GAME_LOCALE == "zhCN" or GAME_LOCALE == "zhTW" then
+elseif GAME_LOCALE == "deDE" or GAME_LOCALE == "esES" or GAME_LOCALE == "esMX" or GAME_LOCALE == "frFR" or GAME_LOCALE == "koKR" or GAME_LOCALE == "ptBR" or GAME_LOCALE == "ptPT" or GAME_LOCALE == "ruRU" or GAME_LOCALE == "zhCN" or GAME_LOCALE == "zhTW" then
 	-- do nothing
 else
 	--error(("%s: Locale %q not supported"):format(MAJOR_VERSION, GAME_LOCALE))
