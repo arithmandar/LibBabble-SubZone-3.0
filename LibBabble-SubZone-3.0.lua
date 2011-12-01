@@ -13,7 +13,6 @@ local MAJOR_VERSION = "LibBabble-SubZone-3.0"
 local MINOR_VERSION = 90000 + tonumber(("$Rev$"):match("%d+"))
 
 if not LibStub then error(MAJOR_VERSION .. " requires LibStub.") end
---local lib = LibStub("LibBabble-3.0"):New(MAJOR_VERSION, MINOR_VERSION)
 LibBabbleSubZone = LibStub("LibBabble-3.0"):New(MAJOR_VERSION, MINOR_VERSION)
 if not LibBabbleSubZone then return end
 
