@@ -8385,13 +8385,13 @@ elseif GAME_LOCALE == "itIT" then
 	["Agamand Mills"] = "Mulini degli Agamand",
 	["Agmar's Hammer"] = "Martello di Agmar",
 	["Agmond's End"] = "Fossa di Agmond",
-	["Agol'watha"] = "Agol'watha", -- Needs review
+	["Agol'watha"] = "Agol'watha",
 	["A Hero's Welcome"] = "Locanda degli Eroi",
 	["Ahn'kahet: The Old Kingdom"] = "Ahn'kahet, il Regno Antico",
 	["Ahn'kahet: The Old Kingdom Entrance"] = "Ingresso ad Ahn'kahet, il Regno Antico",
 	["Ahn Qiraj"] = "Ahn'Qiraj",
 	["Ahn'Qiraj"] = "Ahn'Qiraj",
-	["Ahn'Qiraj Temple"] = "Tempio di Ahn'Qiraj", -- Needs review
+	["Ahn'Qiraj Temple"] = "Tempio di Ahn'Qiraj",
 	["Ahn'Qiraj Terrace"] = "Terrazza di Ahn'Qiraj",
 	["Ahn'Qiraj: The Fallen Kingdom"] = "Ahn'Qiraj: il Regno Perduto",
 	["Akhenet Fields"] = "Campi di Akhenet",
@@ -8415,12 +8415,12 @@ elseif GAME_LOCALE == "itIT" then
 	["All That Glitters Prospecting Co."] = "Società d'Estrazione Brilla e Sfavilla",
 	["Alonsus Chapel"] = "Cappella di Alonsus",
 	["Altar of Ascension"] = "Altare dell'Ascesa",
-	["Altar of Har'koa"] = "Altare di Har'koa", -- Needs review
-	["Altar of Mam'toth"] = "Altare di Mam'toth", -- Needs review
-	["Altar of Quetz'lun"] = "Altare di Quetz'lun", -- Needs review
-	["Altar of Rhunok"] = "Altare di Rhunok", -- Needs review
+	["Altar of Har'koa"] = "Altare di Har'koa",
+	["Altar of Mam'toth"] = "Altare di Mam'toth",
+	["Altar of Quetz'lun"] = "Altare di Quetz'lun",
+	["Altar of Rhunok"] = "Altare di Rhunok",
 	["Altar of Sha'tar"] = "Altare degli Sha'tar",
-	["Altar of Sseratus"] = "Altare di Sseratus", -- Needs review
+	["Altar of Sseratus"] = "Altare di Sseratus",
 	["Altar of Storms"] = "Altare delle Tempeste",
 	["Altar of the Blood God"] = "Altare del Dio del Sangue",
 	["Altar of Twilight"] = "Altare del Crepuscolo",
@@ -8441,7 +8441,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Ambershard Cavern"] = "Caverna di Ambra Scheggiata",
 	["Amberstill Ranch"] = "Tenuta di Ambraquieta",
 	["Amberweb Pass"] = "Passo Tela d'Ambra",
-	["Ameth'Aran"] = "Ameth'Aran", -- Needs review
+	["Ameth'Aran"] = "Ameth'Aran",
 	["Ammen Fields"] = "Campi di Ammen",
 	["Ammen Ford"] = "Guado di Ammen",
 	["Ammen Vale"] = "Valle di Ammen",
@@ -8451,7 +8451,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Ancestral Rise"] = "Altura Ancestrale",
 	["Ancient Courtyard"] = "Corte Antica",
 	["Ancient Zul'Gurub"] = "Zul'Gurub Antica",
-	["An'daroth"] = "An'daroth", -- Needs review
+	["An'daroth"] = "An'daroth",
 	["Andilien Estate"] = "Padiglione di Andilien",
 	Andorhal = "Andorhal",
 	Andruk = "Andruk",
@@ -8464,7 +8464,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Ango'rosh Stronghold"] = "Roccaforte degli Ango'rosh",
 	["Angrathar the Wrathgate"] = "Angrathar, Cancello dell'Ira",
 	["Angrathar the Wrath Gate"] = "Angrathar, Cancello dell'Ira",
-	["An'owyn"] = "An'owyn", -- Needs review
+	["An'owyn"] = "An'owyn",
 	["An'telas"] = "An'telas",
 	["Antonidas Memorial"] = "Monumento ad Antonidas",
 	Anvilmar = "Forgiamara",
@@ -9243,7 +9243,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Emperor's Omen"] = "Presagio dell'Imperatore",
 	["Emperor's Reach"] = "Terrazza dell'Imperatore",
 	["End Time"] = "Fine dei Tempi",
-	-- ["Engineering Labs"] = "",
+	["Engineering Labs"] = "Laboratori d'Ingegneria",
 	["Engineering Labs "] = "Laboratori d'Ingegneria",
 	["Engine of Nalak'sha"] = "Generatore di Nalak'sha",
 	["Engine of the Makers"] = "Motrice dei Creatori",
@@ -9323,7 +9323,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Field of Korja"] = "Campo di Korja",
 	["Field of Strife"] = "Pian della Discordia",
 	["Fields of Blood"] = "Campi del Sangue",
-	["Fields of Honor"] = "Campi dell'Onore", -- Needs review
+	["Fields of Honor"] = "Campi dell'Onore",
 	["Fields of Niuzao"] = "Campi di Niuzao",
 	Filming = "Filmato",
 	["Firebeard Cemetery"] = "Cimitero dei Barbafiamma",
@@ -9639,7 +9639,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Hall of the Conquered Kings"] = "Sala dei Re Sconfitti",
 	["Hall of the Crafters"] = "Sala degli Artigiani",
 	["Hall of the Crescent Moon"] = "Atrio della Luna Crescente",
-	["Hall of the Crusade"] = "Sala della Crociata", -- Needs review
+	["Hall of the Crusade"] = "Sala della Crociata",
 	["Hall of the Cursed"] = "Sala dei Maledetti",
 	["Hall of the Damned"] = "Sala dei Dannati",
 	["Hall of the Fathers"] = "Sala dei Padri",
@@ -9764,7 +9764,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Hunter's Hill"] = "Colle del Cacciatore",
 	["Huntress of the Sun"] = "Cacciatrice del Sole",
 	["Huntsman's Cloister"] = "Chiostro dei Cacciatori",
-	-- Hyjal = "",
+	Hyjal = "Hyjal",
 	["Hyjal Barrow Dens"] = "Eremi di Hyjal",
 	["Hyjal Past"] = "Passato di Hyjal",
 	["Hyjal Summit"] = "Sommità di Hyjal",
@@ -9935,7 +9935,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Lake Al'Ameth"] = "Lago Al'Ameth",
 	["Lake Cauldros"] = "Lago Cauldros",
 	["Lake Dumont"] = "Lago Dumont",
-	["Lake Edunel"] = "Lago Edunel", -- Needs review
+	["Lake Edunel"] = "Lago Edunel",
 	["Lake Elrendar"] = "Lago Elrendar",
 	["Lake Elune'ara"] = "Lago Elune'ara",
 	["Lake Ere'Noru"] = "Lago Ere'Noru",
@@ -10187,7 +10187,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Mountainfoot Strip Mine"] = "Cava di Piemontano",
 	["Mount Akher"] = "Monte Akher",
 	["Mount Hyjal"] = "Monte Hyjal",
-	-- ["Mount Hyjal Phase 1"] = "",
+	["Mount Hyjal Phase 1"] = "Monte Hyjal Fase 1",
 	["Mount Neverest"] = "Monte Neverest",
 	["Muckscale Grotto"] = "Caverna degli Scagliarotta",
 	["Muckscale Shallows"] = "Riviera degli Scagliarotta",
@@ -10725,12 +10725,12 @@ elseif GAME_LOCALE == "itIT" then
 	["Seat of the Spirit Waker"] = "Seggio del Destaspiriti",
 	["Seeker's Folly"] = "Follia del Cercatore",
 	["Seeker's Point"] = "Bivacco del Cercatore",
-	["Sen'jin Village"] = "Villaggio di Sen'jin", -- Needs review
+	["Sen'jin Village"] = "Villaggio di Sen'jin",
 	["Sentinel Basecamp"] = "Campo Base delle Sentinelle",
 	["Sentinel Hill"] = "Guardiacolle",
 	["Sentinel Tower"] = "Torre di Guardiacolle",
 	["Sentry Point"] = "Presidio di Guardia",
-	Seradane = "Seradane", -- Needs review
+	Seradane = "Seradane",
 	["Serenity Falls"] = "Cascate della Serenità",
 	["Serpent Lake"] = "Lago dei Serpenti",
 	["Serpent's Coil"] = "Spira del Serpente",
@@ -10898,7 +10898,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Skethyl Mountains"] = "Monti Skethyl",
 	Skettis = "Skettis",
 	["Skitterweb Tunnels"] = "Tunnel dei Filatela",
-	Skorn = "Skorn", -- Needs review
+	Skorn = "Skorn",
 	["Skulking Row"] = "Sentiero Celato",
 	["Skulk Rock"] = "Tumulo Strisciante",
 	["Skull Rock"] = "Roccia del Teschio",
@@ -11019,8 +11019,8 @@ elseif GAME_LOCALE == "itIT" then
 	["Stardust Spire"] = "Torre della Polvere Stellare",
 	["Starfall Village"] = "Padiglione Pioggia di Stelle",
 	["Stars' Rest"] = "Rifugio delle Stelle",
-	["Stasis Block: Maximus"] = "Blocco di Stasi: Maximus", -- Needs review
-	["Stasis Block: Trion"] = "Blocco di Stasi: Trion", -- Needs review
+	["Stasis Block: Maximus"] = "Blocco di Stasi: Maximus",
+	["Stasis Block: Trion"] = "Blocco di Stasi: Trion",
 	["Steam Springs"] = "Sorgenti di Vapore",
 	["Steamwheedle Port"] = "Porto degli Spargifumo",
 	["Steel Gate"] = "Chiusa d'Acciaio",
@@ -11034,7 +11034,7 @@ elseif GAME_LOCALE == "itIT" then
 	Stonard = "Pietrachiusa",
 	["Stonebreaker Camp"] = "Avamposto di Spaccapietra",
 	["Stonebreaker Hold"] = "Mastio di Spaccapietra",
-	["Stonebull Lake"] = "Lago Toro di Pietra", -- Needs review
+	["Stonebull Lake"] = "Lago Toro di Pietra",
 	["Stone Cairn Lake"] = "Lago del Memoriale",
 	Stonehearth = "Cordipietra",
 	["Stonehearth Bunker"] = "Fortilizio di Cordipietra",
@@ -11077,7 +11077,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Stormwind City Outskirts"] = "Confini di Roccavento",
 	["Stormwind Harbor"] = "Porto di Roccavento",
 	["Stormwind Keep"] = "Forte di Roccavento",
-	["Stormwind Lake"] = "Lago di Roccavento", -- Needs review
+	["Stormwind Lake"] = "Lago di Roccavento",
 	["Stormwind Mountains"] = "Montagne di Roccavento",
 	["Stormwind Stockade"] = "Segrete di Roccavento",
 	["Stormwind Vault"] = "Prigione di Roccavento",
@@ -11087,7 +11087,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Stranglethorn Vale"] = "Valle di Rovotorto",
 	Stratholme = "Stratholme",
 	["Stratholme Entrance"] = "Ingresso a Stratholme",
-	["Stratholme - Main Gate"] = "Stratholme - Porta Principale", -- Needs review
+	["Stratholme - Main Gate"] = "Stratholme - Porta Principale",
 	["Stratholme - Service Entrance"] = "Stratholme - Ingresso di Servizio",
 	["Stratholme Service Entrance"] = "Ingresso di Servizio a Stratholme",
 	["Stromgarde Keep"] = "Forte di Stromgarde",
@@ -11667,7 +11667,7 @@ elseif GAME_LOCALE == "itIT" then
 	["The Nexus Entrance"] = "Ingresso a Nexus",
 	["The Nightmare Scar"] = "Faglia dell'Incubo",
 	["The North Coast"] = "Costa del Nord",
-	["The North Sea"] = "Mare del Nord", -- Needs review
+	["The North Sea"] = "Mare del Nord",
 	["The Nosebleeds"] = "Nasorotto",
 	["The Noxious Glade"] = "Radura Venefica",
 	["The Noxious Hollow"] = "Grotta Venefica",
@@ -12484,12 +12484,12 @@ elseif GAME_LOCALE == "itIT" then
 	["Yowler's Den"] = "Tana di Ghignolungo",
 	["Zabra'jin"] = "Zabra'jin",
 	["Zaetar's Choice"] = "Scelta di Zaetar",
-	["Zaetar's Grave"] = "Tomba di Zaetar", -- Needs review
+	["Zaetar's Grave"] = "Tomba di Zaetar",
 	["Zalashji's Den"] = "Covo di Zalashji",
-	["Zalazane's Fall"] = "Caduta di Zalazane", -- Needs review
+	["Zalazane's Fall"] = "Caduta di Zalazane",
 	["Zane's Eye Crater"] = "Cratere Occhio di Zane",
 	Zangarmarsh = "Paludi di Zangar",
-	["Zangar Ridge"] = "Cresta di Zangar", -- Needs review
+	["Zangar Ridge"] = "Cresta di Zangar",
 	["Zan'vess"] = "Zan'vess",
 	["Zeb'Halak"] = "Zeb'Halak",
 	["Zeb'Nowa"] = "Zeb'Nowa",
@@ -12502,14 +12502,14 @@ elseif GAME_LOCALE == "itIT" then
 	["Zhu Province"] = "Provincia di Zhu",
 	["Zhu's Descent"] = "Pendio di Zhu",
 	["Zhu's Watch"] = "Baluardo di Zhu",
-	["Ziata'jai Ruins"] = "Rovine di Ziata'jai", -- Needs review
+	["Ziata'jai Ruins"] = "Rovine di Ziata'jai",
 	["Zim'Abwa"] = "Zim'Abwa",
 	["Zim'bo's Hideout"] = "Rifugio di Zim'bo",
 	["Zim'Rhuk"] = "Zim'Rhuk",
 	["Zim'Torga"] = "Zim'Torga",
 	["Zol'Heb"] = "Zol'Heb",
 	["Zol'Maz Stronghold"] = "Roccaforte di Zol'Maz",
-	["Zoram'gar Outpost"] = "Avamposto di Zoram'gar", -- Needs review
+	["Zoram'gar Outpost"] = "Avamposto di Zoram'gar",
 	["Zouchin Province"] = "Zouchin",
 	["Zouchin Strand"] = "Riva di Zouchin",
 	["Zouchin Village"] = "Zouchin",
@@ -12520,7 +12520,7 @@ elseif GAME_LOCALE == "itIT" then
 	["Zul'Gurub"] = "Zul'Gurub",
 	["Zul'Mashar"] = "Zul'Mashar",
 	["Zun'watha"] = "Zun'watha",
-	["Zuuldaia Ruins"] = "Rovine di Zuuldaia", -- Needs review
+	["Zuuldaia Ruins"] = "Rovine di Zuuldaia",
 }
 
 elseif GAME_LOCALE == "esMX" then
@@ -37859,7 +37859,7 @@ elseif GAME_LOCALE == "zhCN" then
 	["Bones of Grakkarond"] = "格拉卡隆之骨",
 	["Bootlegger Outpost"] = "商旅哨站",
 	["Booty Bay"] = "藏宝海湾",
-	["Borean Tundra"] = "Borean Tundra",
+	["Borean Tundra"] = "北风苔原",
 	["Bor'gorok Outpost"] = "博古洛克前哨站",
 	["Bor's Breath"] = "伯尔之息",
 	["Bor's Breath River"] = "伯尔之息河",
@@ -38511,7 +38511,7 @@ elseif GAME_LOCALE == "zhCN" then
 	["Firelands Hatchery"] = "火焰之地孵化场",
 	["Fireplume Peak"] = "火羽峰",
 	["Fire Plume Ridge"] = "火羽山",
-	-- ["Fireplume Trench"] = "",
+	["Fireplume Trench"] = "火羽海沟",
 	["Fire Scar Shrine"] = "火痕神殿",
 	["Fire Stone Mesa"] = "火石台地",
 	["Firestone Point"] = "火石岗哨",
@@ -38745,7 +38745,7 @@ elseif GAME_LOCALE == "zhCN" then
 	Grishnath = "格里施纳",
 	Grizzlemaw = "灰喉堡",
 	["Grizzlepaw Ridge"] = "灰爪山",
-	["Grizzly Hills"] = "Grizzly Hills",
+	["Grizzly Hills"] = "灰熊丘陵",
 	["Grol'dom Farm"] = "格罗多姆农场",
 	["Grolluk's Grave"] = "格洛鲁克之墓",
 	["Grom'arsh Crash-Site"] = "格罗玛什坠毁点",
@@ -38880,7 +38880,7 @@ elseif GAME_LOCALE == "zhCN" then
 	["Hellfire Peninsula - Reaver's Fall"] = "地狱火半岛 - 机甲残骸",
 	["Hellfire Ramparts"] = "地狱火城墙",
 	["Hellscream Arena"] = "地狱咆哮竞技场",
-	["Hellscream's Camp"] = "地狱咆哮营地", -- Needs review
+	["Hellscream's Camp"] = "地狱咆哮营地",
 	["Hellscream's Fist"] = "地狱咆哮之拳",
 	["Hellscream's Grasp"] = "地狱咆哮之握",
 	["Hellscream's Watch"] = "地狱咆哮岗哨",
@@ -39150,7 +39150,7 @@ elseif GAME_LOCALE == "zhCN" then
 	["Library Wing"] = "藏书房",
 	Lighthouse = "灯塔",
 	["Lightning Ledge"] = "闪电崖",
-	["Light's Breach"] = "Light's Breach",
+	["Light's Breach"] = "圣光据点",
 	["Light's Dawn Cathedral"] = "圣光黎明大教堂",
 	["Light's Hammer"] = "圣光之锤",
 	["Light's Hope Chapel"] = "圣光之愿礼拜堂",
@@ -41276,7 +41276,7 @@ elseif GAME_LOCALE == "zhCN" then
 	["Tranquil Shore"] = "静谧海岸",
 	["Tranquil Wash"] = "静谧海滩",
 	Transborea = "横贯冰原",
-	["Transitus Shield"] = "Transitus Shield",
+	["Transitus Shield"] = "永生之盾",
 	["Transport: Alliance Gunship"] = "交通工具：联盟炮艇",
 	["Transport: Alliance Gunship (IGB)"] = "Transport: Alliance Gunship (IGB)",
 	["Transport: Horde Gunship"] = "交通工具：部落炮艇",
@@ -41676,7 +41676,7 @@ elseif GAME_LOCALE == "zhCN" then
 	["Zim'Abwa"] = "希姆埃巴",
 	["Zim'bo's Hideout"] = "希姆波的藏身处",
 	["Zim'Rhuk"] = "希姆鲁克",
-	["Zim'Torga"] = "Zim'Torga",
+	["Zim'Torga"] = "希姆托加",
 	["Zol'Heb"] = "佐尔赫布",
 	["Zol'Maz Stronghold"] = "佐尔玛兹要塞",
 	["Zoram'gar Outpost"] = "佐拉姆加前哨站",
