@@ -23,6 +23,7 @@ if not lib then return end
 private["LibBabble-SubZone-3.0-LoadingLib"] = lib
 
 lib:SetBaseTranslations 
+--@do-not-package@
 {
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "7th Legion Front",
@@ -2057,6 +2058,7 @@ lib:SetBaseTranslations
 	["Ik'vess"] = "Ik'vess",
 	["Ikz'ka Ridge"] = "Ikz'ka Ridge",
 	["Illidans Rock"] = "Illidans Rock",
+	["Illidari Camp"] = "Illidari Camp",
 	["Illidari Foothold"] = "Illidari Foothold",
 	["Illidari Perch"] = "Illidari Perch",
 	["Illidari Point"] = "Illidari Point",
@@ -2704,6 +2706,7 @@ lib:SetBaseTranslations
 	["Neltharion's Lair"] = "Neltharion's Lair",
 	["Neltharion's Vault"] = "Neltharion's Vault",
 	["Neptulon's Rise"] = "Neptulon's Rise",
+	Nesingwary = "Nesingwary",
 	["Nesingwary Base Camp"] = "Nesingwary Base Camp",
 	["Nesingwary Safari"] = "Nesingwary Safari",
 	["Nesingwary's Expedition"] = "Nesingwary's Expedition",
@@ -2970,6 +2973,7 @@ lib:SetBaseTranslations
 	["Portal Clearing"] = "Portal Clearing",
 	["Pranksters' Hollow"] = "Pranksters' Hollow",
 	["Predator's Perch"] = "Predator's Perch",
+	Prepfoot = "Prepfoot",
 	["Prepfoot Compound"] = "Prepfoot Compound",
 	["Prison of Immol'thar"] = "Prison of Immol'thar",
 	["Programmer Isle"] = "Programmer Isle",
@@ -5800,6 +5804,8 @@ lib:SetBaseTranslations
 	["Zun'watha"] = "Zun'watha",
 	["Zuuldaia Ruins"] = "Zuuldaia Ruins",
 }
+--@end-do-not-package@
+--@localization(locale="enUS", format="lua_table")@
 
 
 if GetLocale() == "enUS" then
