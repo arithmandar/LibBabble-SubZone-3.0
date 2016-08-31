@@ -23,7 +23,7 @@ if not lib then return end
 private["LibBabble-SubZone-3.0-LoadingLib"] = lib
 
 lib:SetBaseTranslations 
-
+--@do-not-package@
 {
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "7th Legion Front",
@@ -1211,9 +1211,11 @@ lib:SetBaseTranslations
 	["Earth Song Falls"] = "Earth Song Falls",
 	["Earth Song Gate"] = "Earth Song Gate",
 	["Eastern Bridge"] = "Eastern Bridge",
+	["Eastern Highmountain"] = "Eastern Highmountain",
 	["Eastern Kingdoms"] = "Eastern Kingdoms",
 	["Eastern Plaguelands"] = "Eastern Plaguelands",
 	["Eastern Strand"] = "Eastern Strand",
+	["Eastern Suramar"] = "Eastern Suramar",
 	["Eastern Transept"] = "Eastern Transept",
 	["East Garrison"] = "East Garrison",
 	["Eastmoon Ruins"] = "Eastmoon Ruins",
@@ -2240,6 +2242,7 @@ lib:SetBaseTranslations
 	["Jeff NW Quadrant"] = "Jeff NW Quadrant",
 	["Jeff SE Quadrant"] = "Jeff SE Quadrant",
 	["Jeff SW Quadrant"] = "Jeff SW Quadrant",
+	["Jeremy's Test Scenario"] = "Jeremy's Test Scenario",
 	["Jerod's Landing"] = "Jerod's Landing",
 	["Jintha'Alor"] = "Jintha'Alor",
 	["Jintha'kalar"] = "Jintha'kalar",
@@ -2576,6 +2579,7 @@ lib:SetBaseTranslations
 	Mardum = "Mardum",
 	["Mardum Scenario"] = "Mardum Scenario",
 	["Mardum, the Shattered Abyss"] = "Mardum, the Shattered Abyss",
+	["Mardum Treasure Scenario"] = "Mardum Treasure Scenario",
 	["Mar'gok's Overwatch"] = "Mar'gok's Overwatch",
 	["Margoss' Retreat"] = "Margoss' Retreat",
 	["Margoss's Retreat"] = "Margoss's Retreat",
@@ -3075,6 +3079,7 @@ lib:SetBaseTranslations
 	["Propland - Dev Only"] = "Propland - Dev Only",
 	["Prospector's Point"] = "Prospector's Point",
 	["Protectorate Watch Post"] = "Protectorate Watch Post",
+	["Prototype Scenario"] = "Prototype Scenario",
 	["Proving Grounds"] = "Proving Grounds",
 	["Proving Grounds: Select a Trial"] = "Proving Grounds: Select a Trial",
 	["Purespring Cavern"] = "Purespring Cavern",
@@ -3275,6 +3280,7 @@ lib:SetBaseTranslations
 	["Ruby Dragonshrine"] = "Ruby Dragonshrine",
 	["Ruby Lake"] = "Ruby Lake",
 	["Ruined Approach"] = "Ruined Approach",
+	["Ruined City Post 01"] = "Ruined City Post 01",
 	["Ruined Court"] = "Ruined Court",
 	["Ruined Passage"] = "Ruined Passage",
 	["Ruins of Aboraz"] = "Ruins of Aboraz",
@@ -3433,6 +3439,7 @@ lib:SetBaseTranslations
 	["Scarred Vale"] = "Scarred Vale",
 	["Scenario - Black Ox Temple"] = "Scenario - Black Ox Temple",
 	["Scenario - Mogu Ruins"] = "Scenario - Mogu Ruins",
+	["Scenario Template"] = "Scenario Template",
 	["Scenic Overlook"] = "Scenic Overlook",
 	["Schnottz's Frigate"] = "Schnottz's Frigate",
 	["Schnottz's Hostel"] = "Schnottz's Hostel",
@@ -4218,6 +4225,9 @@ lib:SetBaseTranslations
 	["Terror's Cave"] = "Terror's Cave",
 	["Terrorweb Tunnel"] = "Terrorweb Tunnel",
 	["Terror Wing Path"] = "Terror Wing Path",
+	TEST = "TEST",
+	["Test Faction Criteria"] = "Test Faction Criteria",
+	["Test Scenario"] = "Test Scenario",
 	["Tethris Aran"] = "Tethris Aran",
 	["Thaelin's Workshop"] = "Thaelin's Workshop",
 	Thalanaar = "Thalanaar",
@@ -5485,6 +5495,7 @@ lib:SetBaseTranslations
 	Ulduar = "Ulduar",
 	["Ulduar Raid - Interior - Insertion Point"] = "Ulduar Raid - Interior - Insertion Point",
 	["Ulduar Raid - Iron Concourse"] = "Ulduar Raid - Iron Concourse",
+	["Ulduar Warrior Scenario"] = "Ulduar Warrior Scenario",
 	Uldum = "Uldum",
 	["Uldum Phase Oasis"] = "Uldum Phase Oasis",
 	["Uldum - Phase Wrecked Camp"] = "Uldum - Phase Wrecked Camp",
@@ -5749,6 +5760,7 @@ lib:SetBaseTranslations
 	["Western Bridge"] = "Western Bridge",
 	["Western Plaguelands"] = "Western Plaguelands",
 	["Western Strand"] = "Western Strand",
+	["Western Suramar"] = "Western Suramar",
 	["Western Transept"] = "Western Transept",
 	Westersea = "Westersea",
 	Westfall = "Westfall",
@@ -5972,7 +5984,8 @@ lib:SetBaseTranslations
 	["Zun'watha"] = "Zun'watha",
 	["Zuuldaia Ruins"] = "Zuuldaia Ruins",
 }
-
+--@end-do-not-package@
+--@localization(locale="enUS", format="lua_table")@
 
 
 if GetLocale() == "enUS" then
