@@ -23,7 +23,7 @@ if not lib then return end
 private["LibBabble-SubZone-3.0-LoadingLib"] = lib
 
 lib:SetBaseTranslations 
-
+--@do-not-package@
 {
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "7th Legion Front",
@@ -1859,6 +1859,7 @@ lib:SetBaseTranslations
 	["Gruul's Lair"] = "Gruul's Lair",
 	["Gryphon Roost"] = "Gryphon Roost",
 	["Guardian's Library"] = "Guardian's Library",
+	["Guardian's Study"] = "Guardian's Study",
 	["Gul'dan's Overlook"] = "Gul'dan's Overlook",
 	["Gull Rock"] = "Gull Rock",
 	["Gul'rok"] = "Gul'rok",
@@ -6074,7 +6075,8 @@ lib:SetBaseTranslations
 	["Zun'watha"] = "Zun'watha",
 	["Zuuldaia Ruins"] = "Zuuldaia Ruins",
 }
-
+--@end-do-not-package@
+--@localization(locale="enUS", format="lua_table")@
 
 
 if GetLocale() == "enUS" then
