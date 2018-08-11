@@ -6321,9 +6321,4 @@ lib:SetCurrentTranslations
 	["Zul'Mashar"] = "Zul’Mashar",
 	["Zun'watha"] = "Zun’watha",
 	["Zuuldaia Ruins"] = "Ruines de Zuuldaia",
-	["ToC"] = {
-		--Translation missing 
-		-- ["Description"] = "",
-		["Title"] = "Lib: Babble-SubZone-3.0",
-	}
 }

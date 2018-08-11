@@ -6321,10 +6321,4 @@ lib:SetCurrentTranslations
 	["Zul'Mashar"] = "Zul'Mashar",
 	["Zun'watha"] = "Zun'watha",
 	["Zuuldaia Ruins"] = "Ruinas Zuuldaia",
-	["ToC"] = {
-		--Translation missing 
-		-- ["Description"] = "",
-		--Translation missing 
-		-- ["Title"] = "",
-	}
 }

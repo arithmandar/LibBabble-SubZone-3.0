@@ -6327,10 +6327,4 @@ Tocas da Morte]=],
 	["Zul'Mashar"] = "Zul'Mashar",
 	["Zun'watha"] = "Zun'watha",
 	["Zuuldaia Ruins"] = "Ruínas Zuuldaia",
-	["ToC"] = {
-		--Translation missing 
-		-- ["Description"] = "",
-		--Translation missing 
-		-- ["Title"] = "",
-	}
 }

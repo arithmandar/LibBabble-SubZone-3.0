@@ -6316,8 +6316,4 @@ lib:SetCurrentTranslations
 	["Zul'Mashar"] = "줄마샤르",
 	["Zun'watha"] = "준와타",
 	["Zuuldaia Ruins"] = "줄다이아 폐허",
-	["ToC"] = {
-		["Description"] = "게임 내 세부 지역 이름의 지역화로 도움을 주는 라이브러리 입니다.",
-		["Title"] = "Lib: Babble-SubZone-3.0",
-	}
 }

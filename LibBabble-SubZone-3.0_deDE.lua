@@ -6321,9 +6321,4 @@ lib:SetCurrentTranslations
 	["Zul'Mashar"] = "Zul'Mashar",
 	["Zun'watha"] = "Zun'watha",
 	["Zuuldaia Ruins"] = "Ruinen von Zuuldaia",
-	["ToC"] = {
-		["Description"] = "Eine Bibliothek, die dabei hilft, die Untergebiete des Spiels zu übersetzen.",
-		--Translation missing 
-		-- ["Title"] = "",
-	}
 }

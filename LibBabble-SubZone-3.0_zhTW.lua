@@ -6319,9 +6319,4 @@ lib:SetCurrentTranslations
 	["Zul'Mashar"] = "祖爾瑪夏",
 	["Zun'watha"] = "祖瓦沙",
 	["Zuuldaia Ruins"] = "祖丹亞廢墟",
-	["ToC"] = {
-		["Description"] = "為本地化服務的函式庫 [副區域名稱]",
-		--Translation missing 
-		-- ["Title"] = "",
-	}
 }

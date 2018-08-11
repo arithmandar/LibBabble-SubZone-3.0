@@ -6321,8 +6321,4 @@ lib:SetCurrentTranslations
 	["Zul'Mashar"] = "祖玛沙尔",
 	["Zun'watha"] = "祖瓦沙",
 	["Zuuldaia Ruins"] = "祖丹亚废墟",
-	["ToC"] = {
-		["Description"] = "一个帮助游戏内子区域名称本地化的库。",
-		["Title"] = "Lib: Babble-SubZone-3.0",
-	}
 }

@@ -6319,8 +6319,4 @@ lib:SetCurrentTranslations
 	["Zul'Mashar"] = "Zul'Mashar",
 	["Zun'watha"] = "Zun'watha",
 	["Zuuldaia Ruins"] = "Rovine di Zuuldaia",
-	["ToC"] = {
-		["Description"] = "Una libreria per aiutare con la localizzazione delle sotto-zone in gioco.",
-		["Title"] = "Lib: Babble-SubZone-3.0",
-	}
 }
