@@ -24,7 +24,6 @@ private["LibBabble-SubZone-3.0-LoadingLib"] = lib
 
 lib:SetBaseTranslations
 {
-	["[DEV] Demo Map"] = "[DEV] Demo Map",
 	["7th Legion Base Camp"] = "7th Legion Base Camp",
 	["7th Legion Front"] = "7th Legion Front",
 	["7th Legion Submarine"] = "7th Legion Submarine",
