@@ -2772,6 +2772,7 @@ lib:SetBaseTranslations
 	["Honeyglow Glade"] = "Honeyglow Glade",
 	["Honor Hold"] = "Honor Hold",
 	["Honor Hold Mine"] = "Honor Hold Mine",
+	["Honor Point"] = "Honor Point",
 	["Honor's Ascent"] = "Honor's Ascent",
 	["Honor's Stand"] = "Honor's Stand",
 	["Honor's Tomb"] = "Honor's Tomb",
@@ -7870,6 +7871,7 @@ lib:SetBaseTranslations
 	["Zuuldaia Ruins"] = "Zuuldaia Ruins",
 	["zzOld - Tankworks"] = "zzOld - Tankworks"
 }
+
 if GetLocale() == "enUS" then
 	lib:SetCurrentTranslations(true)
 end

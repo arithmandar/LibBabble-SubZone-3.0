@@ -2763,6 +2763,7 @@ lib:SetCurrentTranslations
 	["Honeyglow Glade"] = "蜜光林地",
 	["Honor Hold"] = "榮譽堡",
 	["Honor Hold Mine"] = "榮譽堡礦坑",
+	["Honor Point"] = "榮譽崗哨",
 	["Honor's Ascent"] = "榮譽坡",
 	["Honor's Stand"] = "榮譽看臺",
 	["Honor's Tomb"] = "榮耀之墓",
