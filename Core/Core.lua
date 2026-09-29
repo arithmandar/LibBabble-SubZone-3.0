@@ -21,12 +21,6 @@ local _G = getfenv(0)
 -- ----------------------------------------------------------------------------
 local _, private = ...
 
--- ----------------------------------------------------------------------------
--- Localized Lua globals.
--- ----------------------------------------------------------------------------
--- Functions
-local _G = getfenv(0)
-
 -- Libraries
 local tonumber = tonumber
 local LibStub, C_Map = _G.LibStub, _G.C_Map
