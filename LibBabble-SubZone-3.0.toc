@@ -27,6 +27,7 @@
 ## X-License: MIT
 ## X-Date: @project-date-iso@
 ## X-Website: https://www.curseforge.com/wow/addons/libbabble-subzone-3-0
+## X-Credits: Thanks to the WoW community, WowAce, CurseForge, Warcraft Wiki, wow.tools, Wago Tools (QartemisT), and all contributors.
 ## Category: Libraries
 ## Category-deDE: Bibliotheken
 ## Category-esES: Bibliotecas
