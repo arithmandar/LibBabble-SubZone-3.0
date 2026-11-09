@@ -169,7 +169,6 @@ def escape_lua_string(value):
 
 def write_locale(path, locale, english_names, translations):
     lines = [
-        "-- $Id$",
         "-- Generated from selected WoW CSV exports; do not edit manually.",
         "",
         "local _, private = ...",

@@ -27,23 +27,9 @@ CLIENT_BUILDS = {
 }
 
 CLIENT_GUARDS = {
-    "Mainline": (
-        "local _, _, _, interfaceVersion = GetBuildInfo()\n"
-        "local isForeverBeta = WOW_PROJECT_ID == WOW_PROJECT_MAINLINE "
-        "and interfaceVersion >= 10000 and interfaceVersion < 20000\n"
-        "if WOW_PROJECT_ID ~= WOW_PROJECT_MAINLINE or isForeverBeta then return end\n\n"
-    ),
+    "Mainline": "if WOW_PROJECT_ID ~= WOW_PROJECT_MAINLINE then return end\n\n",
     "ClassicEra": "if WOW_PROJECT_ID ~= WOW_PROJECT_CLASSIC then return end\n\n",
-    "ClassicForever": (
-        "local _, _, _, interfaceVersion = GetBuildInfo()\n"
-        "local projectID = WOW_PROJECT_ID\n"
-        "local PROJECT_MAINLINE = WOW_PROJECT_MAINLINE\n"
-        "-- Beta-only fallback:\n"
-        "-- Replace these bounds with values verified from the actual Forever client.\n"
-        "local isForeverBeta = projectID == PROJECT_MAINLINE and interfaceVersion >= 10000 and interfaceVersion < 20000\n"
-        "local isClassicForever = isForeverBeta\n"
-        "if not isClassicForever then return end\n\n"
-    ),
+    "ClassicForever": "if WOW_PROJECT_ID ~= WOW_PROJECT_CAMELOT then return end\n\n",
     "ClassicProgression": (
         "local projectID = WOW_PROJECT_ID\n"
         "local PROJECT_CATA = WOW_PROJECT_CATACLYSM_CLASSIC\n"
@@ -143,7 +129,6 @@ def convert(area_table_path, output_path, ui_map_path=None, client="Mainline", a
     output_directory = os.path.dirname(os.path.abspath(output_path))
     os.makedirs(output_directory, exist_ok=True)
     with open(output_path, "w", encoding="utf-8", newline="\r\n") as lua_file:
-        lua_file.write("-- $Id$\n")
         lua_file.write("-- Generated for %s from WoW CSV exports; do not edit manually.\n" % client)
         lua_file.write("local _, private = ...\n")
         lua_file.write(CLIENT_GUARDS[client])
@@ -157,7 +142,6 @@ def convert(area_table_path, output_path, ui_map_path=None, client="Mainline", a
         area_output_directory = os.path.dirname(os.path.abspath(area_output_path))
         os.makedirs(area_output_directory, exist_ok=True)
         with open(area_output_path, "w", encoding="utf-8", newline="\r\n") as lua_file:
-            lua_file.write("-- $Id$\n")
             lua_file.write("-- Generated for %s from WoW CSV exports; do not edit manually.\n" % client)
             lua_file.write("local _, private = ...\n")
             lua_file.write(CLIENT_GUARDS[client])
