@@ -23,6 +23,7 @@
 ## Title-zhTW: Lib: Babble-SubZone-3.0
 ## Notes-zhTW: 用於本地化遊戲內子區域名稱的函式庫。
 ## Author: Arith
+## Version: @project-version@
 ## X-Category: Library
 ## X-License: MIT
 ## X-Date: @project-date-iso@
