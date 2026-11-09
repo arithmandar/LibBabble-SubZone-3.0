@@ -1,0 +1,37 @@
+name: SVN mirror (dry run)
+
+# Previews how GitHub content would be mirrored to the WoWAce SVN repository.
+# This workflow never commits to SVN and needs no credentials.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    tags: ["*"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: svn-mirror-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Subversion
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q subversion rsync
+
+      - name: Dry run
+        env:
+          TARGET_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
+          GIT_TAG: ${{ github.ref_type == 'tag' && github.ref_name || '' }}
+        run: bash .github/scripts/svn_mirror.sh
