@@ -10,3 +10,4 @@ externals:
 ignore:
     - .util
     - .data
+    - Docs

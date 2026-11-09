@@ -112,6 +112,13 @@ local function GetSubZoneNames()
 end
 ```
 
+## Documentation
+
+- [API Reference](Docs/API.md): every public method, the lookup order, and the map data tables.
+- [Integration Guide](Docs/Integration.md): embedding, load order, standalone installs, several embedded copies, and usage patterns.
+- [Changelog](Docs/Changelog.md): changes in every release since 2010.
+- [Maintainer Guide](Docs/Maintaining.md): data updates, `MINOR_VERSION` rules, releases, and the SVN mirror.
+
 ## Localization
 
 Most localized names are extracted from the World of Warcraft game client, so translations do not normally need to be provided manually.
