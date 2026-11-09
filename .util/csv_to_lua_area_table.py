@@ -132,7 +132,9 @@ def convert(area_table_path, output_path, ui_map_path=None, client="Mainline", a
         lua_file.write("-- Generated for %s from WoW CSV exports; do not edit manually.\n" % client)
         lua_file.write("local _, private = ...\n")
         lua_file.write(CLIENT_GUARDS[client])
-        lua_file.write("local MapData = private.MapData\n")
+        lua_file.write('local lib = private["LibBabble-SubZone-3.0-LoadingLib"]\n')
+        lua_file.write("if not lib then return end\n")
+        lua_file.write("local MapData = lib.MapData\n")
         lua_file.write("if not MapData then return end\n\n")
         write_index(lua_file, "AreaNameToIDs", area_names)
         if ui_map_names is not None:
@@ -145,9 +147,11 @@ def convert(area_table_path, output_path, ui_map_path=None, client="Mainline", a
             lua_file.write("-- Generated for %s from WoW CSV exports; do not edit manually.\n" % client)
             lua_file.write("local _, private = ...\n")
             lua_file.write(CLIENT_GUARDS[client])
-            lua_file.write("local MapData = {}\n\n")
+            lua_file.write('local lib = private["LibBabble-SubZone-3.0-LoadingLib"]\n')
+            lua_file.write("if not lib then return end\n")
+            lua_file.write("local MapData = lib.MapData\n")
+            lua_file.write("if not MapData then return end\n\n")
             write_area_to_id(lua_file, area_names)
-            lua_file.write("private.MapData = MapData\n")
 
     return output_path
 
