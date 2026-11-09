@@ -1,4 +1,3 @@
--- $Id$
 -- Generated from selected WoW CSV exports; do not edit manually.
 
 local _, private = ...

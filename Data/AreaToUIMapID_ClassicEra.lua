@@ -1,9 +1,11 @@
--- $Id$
 -- Generated for ClassicEra from WoW CSV exports; do not edit manually.
 local _, private = ...
 if WOW_PROJECT_ID ~= WOW_PROJECT_CLASSIC then return end
 
-local MapData = {}
+local lib = private["LibBabble-SubZone-3.0-LoadingLib"]
+if not lib then return end
+local MapData = lib.MapData
+if not MapData then return end
 
 MapData.AreaToID = {
 	["***On Map Dungeon***"] = 65,
@@ -1025,5 +1027,3 @@ MapData.AreaToID = {
 	["Zun'watha"] = 352,
 	["Zuuldaia Ruins"] = 122,
 }
-
-private.MapData = MapData

@@ -1,16 +1,10 @@
--- $Id$
 -- Generated for ClassicForever from WoW CSV exports; do not edit manually.
 local _, private = ...
-local _, _, _, interfaceVersion = GetBuildInfo()
-local projectID = WOW_PROJECT_ID
-local PROJECT_FOREVER = WOW_PROJECT_CAMELOT
--- Beta-only fallback:
--- Replace these bounds with values verified from the actual Forever client.
-local isForeverBeta = projectID == PROJECT_FOREVER and interfaceVersion >= 10000 and interfaceVersion < 20000
-local isClassicForever = isForeverBeta or projectID == PROJECT_FOREVER
-if not isClassicForever then return end
+if WOW_PROJECT_ID ~= WOW_PROJECT_CAMELOT then return end
 
-local MapData = private.MapData
+local lib = private["LibBabble-SubZone-3.0-LoadingLib"]
+if not lib then return end
+local MapData = lib.MapData
 if not MapData then return end
 
 MapData.AreaNameToIDs = {

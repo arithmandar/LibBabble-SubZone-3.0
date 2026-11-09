@@ -1,19 +1,11 @@
--- $Id$
 -- Generated for Mainline from WoW CSV exports; do not edit manually.
 local _, private = ...
-local _, _, _, interfaceVersion = GetBuildInfo()
-local projectID = WOW_PROJECT_ID
+if WOW_PROJECT_ID ~= WOW_PROJECT_MAINLINE then return end
 
-local PROJECT_MAINLINE = WOW_PROJECT_MAINLINE
-local PROJECT_FOREVER = WOW_PROJECT_CAMELOT
-
-local isForeverBeta = projectID == PROJECT_FOREVER and interfaceVersion >= 10000 and interfaceVersion < 20000
-
-local isRetail = projectID == PROJECT_MAINLINE and not isForeverBeta
-
-if not isRetail then return end
-
-local MapData = {}
+local lib = private["LibBabble-SubZone-3.0-LoadingLib"]
+if not lib then return end
+local MapData = lib.MapData
+if not MapData then return end
 
 MapData.AreaToID = {
 	["$n's Fort"] = 7210,
@@ -7679,5 +7671,3 @@ MapData.AreaToID = {
 	["zzOld - Tankworks"] = 6898,
 	["zzoldPriory of the Sacred Flame"] = 15055,
 }
-
-private.MapData = MapData

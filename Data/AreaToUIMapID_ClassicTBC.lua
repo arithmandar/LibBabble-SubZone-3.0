@@ -1,4 +1,3 @@
--- $Id$
 -- Generated for ClassicTBC from WoW CSV exports; do not edit manually.
 local _, private = ...
 local projectID = WOW_PROJECT_ID
@@ -6,7 +5,10 @@ local PROJECT_TBC = WOW_PROJECT_BURNING_CRUSADE_CLASSIC
 local isAnniversaryTBC = PROJECT_TBC ~= nil and projectID == PROJECT_TBC
 if not isAnniversaryTBC then return end
 
-local MapData = {}
+local lib = private["LibBabble-SubZone-3.0-LoadingLib"]
+if not lib then return end
+local MapData = lib.MapData
+if not MapData then return end
 
 MapData.AreaToID = {
 	["Abandoned Armory"] = 3839,
@@ -1548,5 +1550,3 @@ MapData.AreaToID = {
 	["Zun'watha"] = 352,
 	["Zuuldaia Ruins"] = 122,
 }
-
-private.MapData = MapData
