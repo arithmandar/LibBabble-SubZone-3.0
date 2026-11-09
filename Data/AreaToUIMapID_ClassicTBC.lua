@@ -1550,3 +1550,4 @@ MapData.AreaToID = {
 	["Zun'watha"] = 352,
 	["Zuuldaia Ruins"] = 122,
 }
+

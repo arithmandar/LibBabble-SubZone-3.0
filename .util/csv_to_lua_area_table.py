@@ -19,11 +19,11 @@ from collections import defaultdict
 import os
 
 CLIENT_BUILDS = {
-    "Mainline": "12.1.5.69952",
-    "ClassicEra": "1.15.9.69722",
-    "ClassicForever": "1.60.1.70009",
-    "ClassicProgression": "5.5.4.69934",
-    "ClassicTBC": "2.5.6.69795",
+    "Mainline": "12.1.5.70783",
+    "ClassicEra": "1.15.9.70576",
+    "ClassicTBC": "2.5.6.70577",
+    "ClassicForever": "1.60.1.70862",
+    "ClassicProgression": "5.5.4.70631",
 }
 
 CLIENT_GUARDS = {
