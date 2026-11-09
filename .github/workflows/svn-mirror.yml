@@ -1,7 +1,13 @@
-name: SVN mirror (dry run)
+name: SVN mirror
 
-# Previews how GitHub content would be mirrored to the WoWAce SVN repository.
-# This workflow never commits to SVN and needs no credentials.
+# One-way mirror from GitHub to the WoWAce SVN repository.
+#
+# - Pull requests: dry run only (no credentials).
+# - Pushes to main, tag pushes, and manual runs on main: commit to SVN when
+#   the repository variable SVN_MIRROR_ENABLED is "true"; otherwise dry run.
+#
+# Commits use the svn-mirror environment, which holds SVN_USERNAME and
+# SVN_PASSWORD and is limited to main and tags.
 
 on:
   pull_request:
@@ -13,13 +19,13 @@ on:
 permissions:
   contents: read
 
-concurrency:
-  group: svn-mirror-${{ github.ref }}
-  cancel-in-progress: false
-
 jobs:
   dry-run:
+    if: github.event_name == 'pull_request' || vars.SVN_MIRROR_ENABLED != 'true'
     runs-on: ubuntu-latest
+    concurrency:
+      group: svn-mirror-dry-run-${{ github.ref }}
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v5
         with:
@@ -32,6 +38,34 @@ jobs:
 
       - name: Dry run
         env:
+          MODE: dry-run
           TARGET_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
           GIT_TAG: ${{ github.ref_type == 'tag' && github.ref_name || '' }}
+        run: bash .github/scripts/svn_mirror.sh
+
+  mirror:
+    if: github.event_name != 'pull_request' && vars.SVN_MIRROR_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment: svn-mirror
+    # One SVN write at a time across main and tag pushes, in order.
+    concurrency:
+      group: svn-mirror-commit
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Install Subversion
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q subversion rsync
+
+      - name: Mirror to SVN
+        env:
+          MODE: commit
+          TARGET_SHA: ${{ github.sha }}
+          GIT_TAG: ${{ github.ref_type == 'tag' && github.ref_name || '' }}
+          SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
+          SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
         run: bash .github/scripts/svn_mirror.sh
