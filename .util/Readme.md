@@ -9,7 +9,7 @@ The current build mapping is defined in both scripts:
 - Mainline: `12.1.5.70783`
 - Classic Era: `1.15.9.70576`
 - Classic TBC: `2.5.6.70577`
-- Classic Forever: `"1.60.1.70862`
+- Classic Forever: `1.60.1.70862`
 - Classic Progression: `5.5.4.70631`
 
 Update the mapping when a new client build becomes the source of truth.

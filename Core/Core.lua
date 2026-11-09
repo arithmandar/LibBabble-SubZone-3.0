@@ -12,7 +12,7 @@ local MAJOR_VERSION = "LibBabble-SubZone-3.0"
 -- MINOR_VERSION must increase with every release. It used to be derived from the SVN
 -- Rev keyword (last SVN revision: 268, i.e. 100268); it is now set manually so that
 -- Git and SVN builds share the same value.
-local MINOR_VERSION = 100300
+local MINOR_VERSION = 100301
 
 local _G = getfenv(0)
 

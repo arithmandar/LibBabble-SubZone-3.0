@@ -5799,7 +5799,7 @@ lib:SetCurrentTranslations
 	["Quel'Dormir Terrace"] = "Bancal de Quel'Dormir",
 	["Quel'Lithien Lodge"] = "Refugio Quel'Lithien",
 	["Quel'Thalas"] = "Quel'Thalas",
-	["Quel'thalas"] = "Quel'thalas",
+	["Quel'thalas"] = "Quel'Thalas",
 	["Questfall"] = "Ocaso de Expedición",
 	["Quickchop's Lumber Farm"] = "Aserradero de Hachaveloz",
 	["Quiet Cavern"] = "Caverna de la Quietud",

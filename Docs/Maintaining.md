@@ -14,12 +14,12 @@ This guide is for people who change the library itself: updating data, reviewing
 | `lib.xml` | Load order for embedded use | Yes |
 | `LibBabble-SubZone-3.0.toc` | Standalone addon TOC | Yes |
 | `LICENSE`, `Readme.md` | License and project overview | Yes |
-| `Docs/` | Developer documentation | No |
+| `Docs/` | Developer documentation; `Docs/Changelog.md` is also the CurseForge file changelog | Yes |
 | `.util/` | Data download and generation scripts | No |
 | `.github/` | CI workflows and the SVN mirror | No (GitHub only) |
 | `.pkgmeta` | CurseForge packager settings | No |
 
-"Packaged" means included in the CurseForge zip. `Docs/` and `.util/` are excluded in `.pkgmeta`. Files beginning with a period are always excluded by the packager.
+"Packaged" means included in the CurseForge zip. `.util/` and `.data/` are excluded in `.pkgmeta`. Files beginning with a period are always excluded by the packager.
 
 ## Updating the Data
 
@@ -45,7 +45,7 @@ Rules:
 
 The **MINOR_VERSION check** workflow enforces the first rule: a pull request that changes runtime files fails unless `MINOR_VERSION` is higher than on the base branch. Changes to documentation, the TOC, `.util/`, or `.github/` do not need a bump.
 
-History: until 12.1-release3, `MINOR_VERSION` was `100000 + <SVN revision>`, through the `$Rev$` keyword. The last value was `100268`. From 12.1-release4 it is a fixed number, starting at `100300`.
+History: until 12.1-release3, `MINOR_VERSION` was `100000 + <SVN revision>`, through the `$Rev$` keyword. The last value was `100268`. From 12.1-release4 it is a fixed number: `100301`. (`100300` was used only on SVN trunk before the release.)
 
 ## Contribution Workflow
 

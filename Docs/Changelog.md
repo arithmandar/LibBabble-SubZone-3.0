@@ -6,15 +6,23 @@ Release names follow `<WoW version>-release<N>`. Each release is a Git tag and a
 
 `MINOR_VERSION` is the LibStub version in `Core/Core.lua`. When several addons embed the library, the copy with the highest `MINOR_VERSION` is used.
 
-## [12.1-release4] - Unreleased
+## [12.1-release4] - 2026-11-09
+
+### Data
+
+- Data regenerated from client builds 12.1.5.70783 (Mainline), 1.15.9.70576 (Classic Era), 2.5.6.70577 (Classic TBC), 1.60.1.70862 (Classic Forever), and 5.5.4.70631 (Classic Progression).
+- Added 28 location names, including new Classic Forever areas such as Crystalline Highlands, The Drowned City, and Hyjal Crater. Removed 4 names that are no longer in the client data: Dalaran Exchange, The Linguists Lounge, The Violet HOld, and Wands and Wonder.
+- Translation updates from the new client data in every locale.
+- itIT: 9,682 names now have Italian translations, 1,384 more than in 12.1-release3. 30 incorrect Italian translations were replaced by the English name. Classic clients have no Italian locale and return English names, so the generator now prefers a real translation over an English placeholder.
 
 ### Changed
 
-- `MINOR_VERSION` is now the fixed number `100300` instead of being derived from the SVN `$Rev$` keyword (the last derived value was `100268`). Git and SVN builds now report the same version.
+- `MINOR_VERSION` is now the fixed number `100301` instead of being derived from the SVN `$Rev$` keyword (the last derived value was `100268`). Git and SVN builds now report the same version.
 - Removed all SVN keywords (`$Id$`, `$Rev$`, `$Author$`) from the source files.
 - Each client data file now loads only on its own client: Mainline checks `WOW_PROJECT_MAINLINE` and Classic Forever checks `WOW_PROJECT_CAMELOT`, both through `WOW_PROJECT_ID`.
 - Updated the website link in `Core/Core.lua` to CurseForge.
-- `Docs/` is excluded from the packaged file, like `.util/`.
+- The TOC now shows the release version (`## Version`).
+- This changelog is now used as the file changelog on CurseForge.
 
 ### Fixed
 
@@ -376,7 +384,7 @@ Release names follow `<WoW version>-release<N>`. Each release is a Git tag and a
 - First release, with enUS, deDE, esES, frFR, ruRU, and zhTW translations.
 - Includes subzone names from WMOAreaTable.
 
-[12.1-release4]: https://github.com/arithmandar/LibBabble-SubZone-3.0/compare/12.1-release3...main
+[12.1-release4]: https://github.com/arithmandar/LibBabble-SubZone-3.0/compare/12.1-release3...12.1-release4
 [12.1-release3]: https://github.com/arithmandar/LibBabble-SubZone-3.0/tree/12.1-release3
 [12.1-release2]: https://github.com/arithmandar/LibBabble-SubZone-3.0/tree/12.1-release2
 [12.1-release1]: https://github.com/arithmandar/LibBabble-SubZone-3.0/tree/12.1-release1

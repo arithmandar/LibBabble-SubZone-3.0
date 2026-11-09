@@ -145,7 +145,7 @@ These methods are used by the library's own data files. Addons should not call t
 
 | Library | MAJOR | MINOR |
 |---|---|---|
-| LibBabble-SubZone-3.0 | `"LibBabble-SubZone-3.0"` | `100300` (12.1-release4) |
+| LibBabble-SubZone-3.0 | `"LibBabble-SubZone-3.0"` | `100301` (12.1-release4) |
 | LibBabble-3.0 core | `"LibBabble-3.0"` | `3` |
 
 The bundled LibBabble-3.0 core adds `SetLookupResolver()` and the resolver step in `GetLookupTable()`. Its MINOR is higher than the original LibBabble-3.0 (`2`), so LibStub uses this version even when another LibBabble library loads the older core first. Libraries that do not register a resolver keep the original behavior.
