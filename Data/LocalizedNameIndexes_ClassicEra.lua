@@ -1,4 +1,3 @@
--- $Id$
 -- Generated for ClassicEra from WoW CSV exports; do not edit manually.
 local _, private = ...
 if WOW_PROJECT_ID ~= WOW_PROJECT_CLASSIC then return end
