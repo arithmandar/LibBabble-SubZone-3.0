@@ -1,4 +1,3 @@
--- $Id$
 -- Generated for ClassicTBC from WoW CSV exports; do not edit manually.
 local _, private = ...
 local projectID = WOW_PROJECT_ID

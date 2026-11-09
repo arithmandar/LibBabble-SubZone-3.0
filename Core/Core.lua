@@ -1,30 +1,12 @@
 --[[
-$Id$
 Name: LibBabble-SubZone-3.0
 Maintainers: arith
-Last updated by: $Author$
-Website: http://www.wowace.com/addons/libbabble-subzone-3-0/
+Last updated by: arith
+Website: https://www.curseforge.com/wow/addons/libbabble-subzone-3-0
 Dependencies: None
 License: MIT
 ]]
--- ----------------------------------------------------------------------------
--- Localized Lua globals.
--- ----------------------------------------------------------------------------
--- Functions
-local _G = getfenv(0)
-
--- Libraries
-
--- ----------------------------------------------------------------------------
--- AddOn namespace.
--- ----------------------------------------------------------------------------
 local _, private = ...
-
--- Libraries
-local tonumber = tonumber
-local LibStub, C_Map = _G.LibStub, _G.C_Map
-local GetAreaInfo = C_Map and C_Map.GetAreaInfo
-local GetMapInfo = C_Map and C_Map.GetMapInfo
 
 local MAJOR_VERSION = "LibBabble-SubZone-3.0"
 -- MINOR_VERSION must increase with every release. It used to be derived from the SVN
@@ -32,9 +14,17 @@ local MAJOR_VERSION = "LibBabble-SubZone-3.0"
 -- Git and SVN builds share the same value.
 local MINOR_VERSION = 100300
 
+local _G = getfenv(0)
+
+local LibStub = _G.LibStub
+
 if not LibStub then error(MAJOR_VERSION .. " requires LibStub.") end
 local lib = LibStub("LibBabble-3.0"):New(MAJOR_VERSION, MINOR_VERSION)
 if not lib then return end
+
+local C_Map = _G.C_Map
+local GetAreaInfo = C_Map and C_Map.GetAreaInfo
+local GetMapInfo = C_Map and C_Map.GetMapInfo
 
 lib.MapData = private.MapData
 

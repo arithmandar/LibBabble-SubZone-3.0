@@ -1,19 +1,6 @@
--- $Id$
 -- Generated for Mainline from WoW CSV exports; do not edit manually.
 local _, private = ...
-
-local GetBuildInfo = _G.GetBuildInfo
-local _, _, _, interfaceVersion = GetBuildInfo()
-local projectID = WOW_PROJECT_ID
-
-local PROJECT_MAINLINE = WOW_PROJECT_MAINLINE
-local PROJECT_FOREVER = WOW_PROJECT_CAMELOT
-
-local isForeverBeta = projectID == PROJECT_FOREVER and interfaceVersion >= 10000 and interfaceVersion < 20000
-
-local isRetail = projectID == PROJECT_MAINLINE and not isForeverBeta
-
-if not isRetail then return end
+if WOW_PROJECT_ID ~= WOW_PROJECT_MAINLINE then return end
 
 local MapData = private.MapData
 if not MapData then return end
