@@ -13,12 +13,13 @@ import re
 
 
 CLIENT_BUILDS = {
-    "Mainline": "12.1.5.69952",
-    "ClassicEra": "1.15.9.69722",
-    "ClassicForever": "1.60.1.70009",
-    "ClassicProgression": "5.5.4.69934",
-    "ClassicTBC": "2.5.6.69795",
+    "Mainline": "12.1.5.70783",
+    "ClassicEra": "1.15.9.70576",
+    "ClassicTBC": "2.5.6.70577",
+    "ClassicForever": "1.60.1.70862",
+    "ClassicProgression": "5.5.4.70631",
 }
+
 LOCALES = (
     "deDE",
     "enUS",
@@ -141,6 +142,11 @@ def choose_translations(english_names, candidates):
     translations = {}
     for english_name in sorted(english_names):
         values = candidates.get(english_name, [])
+        # A client without this locale returns the English text (for example,
+        # Classic clients have no itIT), so prefer real translations when any exist.
+        translated = [value for value in values if value != english_name]
+        if translated:
+            values = translated
         if values:
             translations[english_name] = Counter(values).most_common(1)[0][0]
     return translations

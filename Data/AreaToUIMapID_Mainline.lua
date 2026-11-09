@@ -7671,3 +7671,4 @@ MapData.AreaToID = {
 	["zzOld - Tankworks"] = 6898,
 	["zzoldPriory of the Sacred Flame"] = 15055,
 }
+

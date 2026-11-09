@@ -3624,3 +3624,4 @@ MapData.AreaToID = {
 	["[TEMP] JT"] = 6682,
 	["claytonio test area"] = 4688,
 }
+

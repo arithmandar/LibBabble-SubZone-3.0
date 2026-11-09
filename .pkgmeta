@@ -1,5 +1,9 @@
 package-as: LibBabble-SubZone-3.0
 
+manual-changelog:
+    filename: Docs/Changelog.md
+    markup-type: markdown
+    
 enable-nolib-creation: no
 
 externals:
