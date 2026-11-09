@@ -1,7 +1,6 @@
 --[[
 $Id$
 Name: LibBabble-SubZone-3.0
-Revision: $Rev$
 Maintainers: arith
 Last updated by: $Author$
 Website: http://www.wowace.com/addons/libbabble-subzone-3-0/
@@ -28,7 +27,10 @@ local GetAreaInfo = C_Map and C_Map.GetAreaInfo
 local GetMapInfo = C_Map and C_Map.GetMapInfo
 
 local MAJOR_VERSION = "LibBabble-SubZone-3.0"
-local MINOR_VERSION = 100000 + tonumber(("$Rev$"):match("%d+"))
+-- MINOR_VERSION must increase with every release. It used to be derived from the SVN
+-- Rev keyword (last SVN revision: 268, i.e. 100268); it is now set manually so that
+-- Git and SVN builds share the same value.
+local MINOR_VERSION = 100300
 
 if not LibStub then error(MAJOR_VERSION .. " requires LibStub.") end
 local lib = LibStub("LibBabble-3.0"):New(MAJOR_VERSION, MINOR_VERSION)
