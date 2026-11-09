@@ -27,7 +27,11 @@ EXCLUDES=(.git .github)
 rm -rf "$WORK"
 mkdir -p "$WORK"
 
-say() { printf '%s\n' "$*" >>"$SUMMARY"; }
+# Write to the job summary and to the log.
+say() {
+	printf '%s\n' "$*"
+	[ "$SUMMARY" = /dev/stdout ] || printf '%s\n' "$*" >>"$SUMMARY"
+}
 fail() { echo "::error::$*"; say ""; say "**Result: FAILED** — $*"; exit 1; }
 
 # Write a Git tree (without excluded paths) into a directory.
@@ -127,7 +131,7 @@ else
 	say '```'
 	say "Mirror GitHub ${GITHUB_REF_NAME:-main} at ${TARGET_SHA:0:10}"
 	say ""
-	git log --format='- %h %s' "${base_sha}..${TARGET_SHA}" -- . ':!.github' >>"$SUMMARY" || true
+	say "$(git log --format='- %h %s' "${base_sha}..${TARGET_SHA}" -- . ':!.github')"
 	say ""
 	say "Git commit: $TARGET_SHA"
 	say '```'
