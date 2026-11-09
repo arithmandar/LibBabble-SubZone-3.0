@@ -2,7 +2,9 @@
 local _, private = ...
 if WOW_PROJECT_ID ~= WOW_PROJECT_CLASSIC then return end
 
-local MapData = private.MapData
+local lib = private["LibBabble-SubZone-3.0-LoadingLib"]
+if not lib then return end
+local MapData = lib.MapData
 if not MapData then return end
 
 MapData.AreaNameToIDs = {

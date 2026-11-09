@@ -2,7 +2,10 @@
 local _, private = ...
 if WOW_PROJECT_ID ~= WOW_PROJECT_MAINLINE then return end
 
-local MapData = {}
+local lib = private["LibBabble-SubZone-3.0-LoadingLib"]
+if not lib then return end
+local MapData = lib.MapData
+if not MapData then return end
 
 MapData.AreaToID = {
 	["$n's Fort"] = 7210,
@@ -7668,5 +7671,3 @@ MapData.AreaToID = {
 	["zzOld - Tankworks"] = 6898,
 	["zzoldPriory of the Sacred Flame"] = 15055,
 }
-
-private.MapData = MapData

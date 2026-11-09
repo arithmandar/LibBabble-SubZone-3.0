@@ -26,7 +26,9 @@ local C_Map = _G.C_Map
 local GetAreaInfo = C_Map and C_Map.GetAreaInfo
 local GetMapInfo = C_Map and C_Map.GetMapInfo
 
-lib.MapData = private.MapData
+-- Data files fill this table. They load after this file and skip themselves
+-- when this copy did not win the LibStub version check, so only one copy builds it.
+lib.MapData = {}
 
 local function resolveCandidates(candidateIDs, getLocalizedName)
 	if not candidateIDs or not getLocalizedName then return end
